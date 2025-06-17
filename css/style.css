@@ -3303,17 +3303,17 @@ font-family: "EB Garamond", serif;font-size: 35px;
     background-position: center center;
     background-size: cover; }
   .lima_grid_items .lima_grid_item .grid_img_first {
-    background-image: url(images/yann-bervas-617586-unsplash.jpg); }
+    background-image: url(../images/yann-bervas-617586-unsplash.jpg); }
   .lima_grid_items .lima_grid_item .grid_img_second {
-    background-image: url(images/verne-ho-23723-unsplash.jpg); }
+    background-image: url(../images/verne-ho-23723-unsplash.jpg); }
   .lima_grid_items .lima_grid_item .grid_img_third {
-    background-image: url(images/tyler-nix-594383-unsplash.jpg); }
+    background-image: url(../images/tyler-nix-594383-unsplash.jpg); }
   .lima_grid_items .lima_grid_item .grid_img_fourth {
-    background-image: url(images/christopher-harris-55545-unsplash.jpg); }
+    background-image: url(../images/christopher-harris-55545-unsplash.jpg); }
   .lima_grid_items .lima_grid_item .grid_img_fifth {
-    background-image: url(images/averie-woodard-111834-unsplash.jpg); }
+    background-image: url(../images/averie-woodard-111834-unsplash.jpg); }
   .lima_grid_items .lima_grid_item .grid_img_sixth {
-    background-image: url(images/becca-tapert-391586-unsplash.jpg); }
+    background-image: url(../images/becca-tapert-391586-unsplash.jpg); }
 
 .lima-grid_col_four .lima_grid_item:nth-child(1) {
   transition-delay: 350ms; }
@@ -3404,35 +3404,35 @@ font-family: "EB Garamond", serif;font-size: 35px;
   .fullscreen-album-items .fullscreen-album-item:nth-child(1) {
     transition-delay: 350ms; }
     .fullscreen-album-items .fullscreen-album-item:nth-child(1) .fullscreen-album-img {
-      background-image: url(images/averie-woodard-111834-unsplash.jpg); }
+      background-image: url(../images/averie-woodard-111834-unsplash.jpg); }
   .fullscreen-album-items .fullscreen-album-item:nth-child(2) {
     transition-delay: 700ms; }
     .fullscreen-album-items .fullscreen-album-item:nth-child(2) .fullscreen-album-img {
-      background-image: url(images/kevin-laminto-607963-unsplash.jpg); }
+      background-image: url(../images/kevin-laminto-607963-unsplash.jpg); }
   .fullscreen-album-items .fullscreen-album-item:nth-child(3) {
     transition-delay: 1050ms; }
     .fullscreen-album-items .fullscreen-album-item:nth-child(3) .fullscreen-album-img {
-      background-image: url(images/benjamin-combs-27619-unsplash.jpg); }
+      background-image: url(../images/benjamin-combs-27619-unsplash.jpg); }
   .fullscreen-album-items .fullscreen-album-item:nth-child(4) {
     transition-delay: 1400ms; }
     .fullscreen-album-items .fullscreen-album-item:nth-child(4) .fullscreen-album-img {
-      background-image: url(images/becca-tapert-391586-unsplash.jpg); }
+      background-image: url(../images/becca-tapert-391586-unsplash.jpg); }
   .fullscreen-album-items .fullscreen-album-item:nth-child(5) {
     transition-delay: 1750ms; }
     .fullscreen-album-items .fullscreen-album-item:nth-child(5) .fullscreen-album-img {
-      background-image: url(images/dani-vivanco-509513.jpg); }
+      background-image: url(../images/dani-vivanco-509513.jpg); }
   .fullscreen-album-items .fullscreen-album-item:nth-child(6) {
     transition-delay: 2100ms; }
     .fullscreen-album-items .fullscreen-album-item:nth-child(6) .fullscreen-album-img {
-      background-image: url(images/allef-vinicius-346125-unsplash.jpg); }
+      background-image: url(../images/allef-vinicius-346125-unsplash.jpg); }
   .fullscreen-album-items .fullscreen-album-item:nth-child(7) {
     transition-delay: 2450ms; }
     .fullscreen-album-items .fullscreen-album-item:nth-child(7) .fullscreen-album-img {
-      background-image: url(images/annie-spratt-467871.jpg); }
+      background-image: url(../images/annie-spratt-467871.jpg); }
   .fullscreen-album-items .fullscreen-album-item:nth-child(8) {
     transition-delay: 2800ms; }
     .fullscreen-album-items .fullscreen-album-item:nth-child(8) .fullscreen-album-img {
-      background-image: url(images/icons8-team-355985.jpg); }
+      background-image: url(../images/icons8-team-355985.jpg); }
   .fullscreen-album-items .fullscreen-album-text {
     position: absolute;
     width: 100%;
@@ -3567,16 +3567,16 @@ font-family: "EB Garamond", serif;font-size: 35px;
 .grid-transform_col-three .grid-transform-item:nth-child(1) .grid-transform-img {
   background-image: url(/images/crea1.jpg); }
 .grid-transform_col-three .grid-transform-item:nth-child(2) .grid-transform-img {
-  background-image: url(images/kevin-laminto-607963-unsplash.jpg); }
+  background-image: url(../images/kevin-laminto-607963-unsplash.jpg); }
 .grid-transform_col-three .grid-transform-item:nth-child(3) .grid-transform-img {
-  background-image: url(images/averie-woodard-111834-unsplash.jpg); }
+  background-image: url(../images/averie-woodard-111834-unsplash.jpg); }
 
 .grid-transform_col-two .grid-transform-img-ove {
-  background-image: url(images/jordan-mixson-372459.jpg); }
+  background-image: url(../images/jordan-mixson-372459.jpg); }
 .grid-transform_col-two .grid-transform-img-two {
-  background-image: url(images/annie-spratt-467871.jpg); }
+  background-image: url(../images/annie-spratt-467871.jpg); }
 .grid-transform_col-two .grid-transform-img-three {
-  background-image: url(images/sam-burriss-435641-e1526906975869.jpg); }
+  background-image: url(../images/sam-burriss-435641-e1526906975869.jpg); }
 
 .grid-transform_col-two .grid-transform-item:nth-child(1) {
   transition-delay: 350ms; }
@@ -3782,27 +3782,27 @@ font-family: "EB Garamond", serif;font-size: 35px;
   .praia-portfolio-items .praia-portfolio-item:nth-child(1) {
     transition-delay: 350ms; }
     .praia-portfolio-items .praia-portfolio-item:nth-child(1) .praia-portfolio-img {
-    background-image: url(images/pro1.jpg); }
+    background-image: url(../images/pro1.jpg); }
   .praia-portfolio-items .praia-portfolio-item:nth-child(2) {
     transition-delay: 700ms; }
     .praia-portfolio-items .praia-portfolio-item:nth-child(2) .praia-portfolio-img {
-    background-image: url(images/pro2.jpg); }
+    background-image: url(../images/pro2.jpg); }
   .praia-portfolio-items .praia-portfolio-item:nth-child(3) {
     transition-delay: 1050ms; }
     .praia-portfolio-items .praia-portfolio-item:nth-child(3) .praia-portfolio-img {
-    background-image: url(images/pro3.jpg); }
+    background-image: url(../images/pro3.jpg); }
   .praia-portfolio-items .praia-portfolio-item:nth-child(4) {
     transition-delay: 1400ms; }
     .praia-portfolio-items .praia-portfolio-item:nth-child(4) .praia-portfolio-img {
-    background-image: url(images/pro4.jpg); }
+    background-image: url(../images/pro4.jpg); }
   .praia-portfolio-items .praia-portfolio-item:nth-child(5) {
     transition-delay: 1750ms; }
     .praia-portfolio-items .praia-portfolio-item:nth-child(5) .praia-portfolio-img {
-    background-image: url(images/pro5.jpg); }
+    background-image: url(../images/pro5.jpg); }
   .praia-portfolio-items .praia-portfolio-item:nth-child(6) {
     transition-delay: 2100ms; }
     .praia-portfolio-items .praia-portfolio-item:nth-child(6) .praia-portfolio-img {
-    background-image: url(images/pro6.jpg); }
+    background-image: url(../images/pro6.jpg); }
 
 .praia-portfolio-items.praia-portfolio_animation .praia-portfolio-item {
   opacity: 1; }
