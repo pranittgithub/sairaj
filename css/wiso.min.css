@@ -347,7 +347,7 @@ span.mb_YTPMuteUnmute {
         font-size: 70px
     }
 
-    .product-slider-wrapper .wiso-prod-list-image {
+    .product-slider-wrapper .WISO-prod-list-image {
         padding-right: 40px
     }
 
@@ -415,7 +415,7 @@ input.rememberme {
     background-color: #f2f2f2
 }
 
-.iframe-video .wiso-sound-btn {
+.iframe-video .WISO-sound-btn {
     width: 50px;
     height: 50px;
     left: 50%;
@@ -4286,11 +4286,11 @@ caption {
     color: #222222
 }
 
-#footer .wiso-widget-social-link {
+#footer .WISO-widget-social-link {
     text-align: center
 }
 
-#footer .wiso-widget-social-link a {
+#footer .WISO-widget-social-link a {
     display: -webkit-inline-box;
     display: -ms-inline-flexbox;
     display: inline-flex;
@@ -4314,11 +4314,11 @@ caption {
     transition: color .3s ease
 }
 
-#footer .wiso-widget-social-link a:not(:first-of-type) {
+#footer .WISO-widget-social-link a:not(:first-of-type) {
     margin-left: 10px
 }
 
-#footer .wiso-widget-social-link a:hover {
+#footer .WISO-widget-social-link a:hover {
     color: #222
 }
 
@@ -4435,11 +4435,11 @@ caption {
     text-align: center
 }
 
-#footer .wiso-widget-about {
+#footer .WISO-widget-about {
     text-align: center
 }
 
-#footer .wiso-widget-about .about_content {
+#footer .WISO-widget-about .about_content {
     color: #222;
     font-family: "EB Garamond", serif;
     font-size: 20px;
@@ -4448,7 +4448,7 @@ caption {
     text-transform: uppercase
 }
 
-#footer .wiso-widget-about .about_content.text {
+#footer .WISO-widget-about .about_content.text {
     color: #999999;
     font-family: "EB Garamond", sans-serif;
     font-size: 15px;
@@ -4457,28 +4457,28 @@ caption {
     text-transform: none
 }
 
-#footer .wiso-widget-copyright .img-wrap {
+#footer .WISO-widget-copyright .img-wrap {
     margin-bottom: 90px
 }
 
-#footer .wiso-widget-copyright .img-wrap img {
+#footer .WISO-widget-copyright .img-wrap img {
     max-height: 60px
 }
 
-#footer .wiso-widget-copyright .socials a {
+#footer .WISO-widget-copyright .socials a {
     font-size: 18px;
     text-decoration: none
 }
 
-#footer .wiso-widget-copyright .socials a:not(:last-of-type) {
+#footer .WISO-widget-copyright .socials a:not(:last-of-type) {
     margin-right: 25px
 }
 
-#footer .wiso-widget-copyright .socials a:hover {
+#footer .WISO-widget-copyright .socials a:hover {
     opacity: .7
 }
 
-#footer .wiso-widget-copyright .socials .copy_content {
+#footer .WISO-widget-copyright .socials .copy_content {
     font-family: "EB Garamond", sans-serif;
     font-size: 15px;
     line-height: 1.73;
@@ -4542,7 +4542,7 @@ caption {
     border-bottom: 0
 }
 
-#footer .sidebar-item .wiso-widget-subscribe .wiso-widget-descr {
+#footer .sidebar-item .WISO-widget-subscribe .WISO-widget-descr {
     color: #999999;
     font-family: "EB Garamond", sans-serif;
     font-size: 15px;
@@ -4667,12 +4667,12 @@ caption {
     color: #999999
 }
 
-#footer.simple .wiso-widget-subscribe input {
+#footer.simple .WISO-widget-subscribe input {
     width: 100%;
     padding: 15px 20px
 }
 
-#footer.simple .wiso-widget-subscribe input:not([type="submit"]) {
+#footer.simple .WISO-widget-subscribe input:not([type="submit"]) {
     border: 1px solid #eee;
     margin-bottom: 15px;
     color: #222;
@@ -4682,7 +4682,7 @@ caption {
     letter-spacing: .2px
 }
 
-#footer.simple .wiso-widget-subscribe input[type="submit"] {
+#footer.simple .WISO-widget-subscribe input[type="submit"] {
     border: 0;
     background-color: #222222;
     color: #fff;
@@ -4711,7 +4711,7 @@ caption {
     text-align: left
 }
 
-#footer.modern .sidebar-item .item-wrap h3:not(.wiso-widget-descr) {
+#footer.modern .sidebar-item .item-wrap h3:not(.WISO-widget-descr) {
     color: #ffffff;
     font-family: "EB Garamond", sans-serif;
     font-size: 12px;
@@ -4721,7 +4721,7 @@ caption {
     text-align: left
 }
 
-#footer.modern .wiso-widget-about .about_content {
+#footer.modern .WISO-widget-about .about_content {
     color: #ffffff;
     font-family: "EB Garamond", sans-serif;
     font-size: 12px;
@@ -4730,12 +4730,12 @@ caption {
     letter-spacing: 2px
 }
 
-#footer.modern .wiso-widget-social-link a {
+#footer.modern .WISO-widget-social-link a {
     background-color: transparent;
     color: #ffffff
 }
 
-#footer.modern .wiso-widget-social-link a:hover {
+#footer.modern .WISO-widget-social-link a:hover {
     opacity: .7
 }
 
@@ -4752,15 +4752,15 @@ caption {
     letter-spacing: 2px
 }
 
-#footer.modern .WisoInstagramWidget .images-wrap {
+#footer.modern .WISOInstagramWidget .images-wrap {
     text-align: left
 }
 
-#footer.modern .wiso-widget-copyright .socials a {
+#footer.modern .WISO-widget-copyright .socials a {
     color: #ffffff
 }
 
-#footer.modern .wiso-widget-copyright .copy_content {
+#footer.modern .WISO-widget-copyright .copy_content {
     margin-top: 20px;
     text-align: left;
     color: #999999
@@ -4770,12 +4770,12 @@ caption {
     text-align: left
 }
 
-#footer.modern .wiso-widget-subscribe p {
+#footer.modern .WISO-widget-subscribe p {
     margin-bottom: 0;
     position: relative
 }
 
-#footer.modern .wiso-widget-subscribe p::after {
+#footer.modern .WISO-widget-subscribe p::after {
     content: "\f422";
     font-family: "Ionicons";
     position: absolute;
@@ -4785,7 +4785,7 @@ caption {
     font-size: 25px
 }
 
-#footer.modern .wiso-widget-subscribe input {
+#footer.modern .WISO-widget-subscribe input {
     width: 100%;
     padding: 15px 20px;
     border: 0;
@@ -4793,26 +4793,26 @@ caption {
     color: #ffffff
 }
 
-#footer.modern .wiso-widget-subscribe .wiso-widget-descr {
+#footer.modern .WISO-widget-subscribe .WISO-widget-descr {
     text-align: left
 }
 
-#footer.modern .WisoInstagramWidget .instagram-text a {
+#footer.modern .WISOInstagramWidget .instagram-text a {
     font-family: "EB Garamond", sans-serif;
     font-style: normal;
     font-size: 12px;
     color: #ffffff
 }
 
-#footer.modern .WisoInstagramWidget .instagram-text a:hover {
+#footer.modern .WISOInstagramWidget .instagram-text a:hover {
     color: #999999
 }
 
-#footer.modern .wiso-widget-about {
+#footer.modern .WISO-widget-about {
     text-align: left
 }
 
-#footer.modern .wiso-widget-about .about_content {
+#footer.modern .WISO-widget-about .about_content {
     text-align: left
 }
 
@@ -4885,25 +4885,25 @@ caption {
     color: #999
 }
 
-#footer.modern .wiso-widget-subscribe input::-webkit-input-placeholder {
+#footer.modern .WISO-widget-subscribe input::-webkit-input-placeholder {
     color: #fff;
     opacity: .6;
     font-family: "EB Garamond", sans-serif
 }
 
-#footer.modern .wiso-widget-subscribe input::-moz-placeholder {
+#footer.modern .WISO-widget-subscribe input::-moz-placeholder {
     color: #fff;
     opacity: .6;
     font-family: "EB Garamond", sans-serif
 }
 
-#footer.modern .wiso-widget-subscribe input:-ms-input-placeholder {
+#footer.modern .WISO-widget-subscribe input:-ms-input-placeholder {
     color: #fff;
     opacity: .6;
     font-family: "EB Garamond", sans-serif
 }
 
-#footer.modern .wiso-widget-subscribe input:-moz-placeholder {
+#footer.modern .WISO-widget-subscribe input:-moz-placeholder {
     color: #fff;
     opacity: .6;
     font-family: "EB Garamond", sans-serif
@@ -5108,7 +5108,7 @@ footer .wpcf7-form-control-wrap .wpcf7-not-valid-tip {
     opacity: 1
 }
 
-.wiso_copyright_overlay {
+.WISO_copyright_overlay {
     position: fixed;
     z-index: 9999;
     top: 0;
@@ -5124,12 +5124,12 @@ footer .wpcf7-form-control-wrap .wpcf7-not-valid-tip {
     transition: opacity .3s ease, visibility .3s ease
 }
 
-.wiso_copyright_overlay.active {
+.WISO_copyright_overlay.active {
     opacity: 1;
     visibility: visible
 }
 
-.wiso_copyright_overlay .wiso_copyright_overlay-active {
+.WISO_copyright_overlay .WISO_copyright_overlay-active {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -5141,12 +5141,12 @@ footer .wpcf7-form-control-wrap .wpcf7-not-valid-tip {
     width: 100%
 }
 
-.wiso_copyright_overlay h1,
-.wiso_copyright_overlay h2,
-.wiso_copyright_overlay h3,
-.wiso_copyright_overlay h4,
-.wiso_copyright_overlay h5,
-.wiso_copyright_overlay h6 {
+.WISO_copyright_overlay h1,
+.WISO_copyright_overlay h2,
+.WISO_copyright_overlay h3,
+.WISO_copyright_overlay h4,
+.WISO_copyright_overlay h5,
+.WISO_copyright_overlay h6 {
     margin-bottom: 30px;
     font-weight: 800;
     letter-spacing: .2px;
@@ -5157,7 +5157,7 @@ footer .wpcf7-form-control-wrap .wpcf7-not-valid-tip {
     background: #fff
 }
 
-.wiso_copyright_overlay_text {
+.WISO_copyright_overlay_text {
     font-family: "EB Garamond", serif;
     font-size: 20px;
     font-weight: 400;
@@ -5188,7 +5188,7 @@ footer .wpcf7-form-control-wrap .wpcf7-not-valid-tip {
     float: right
 }
 
-#footer .ContactWidget .wiso-widget-contact {
+#footer .ContactWidget .WISO-widget-contact {
     max-width: 300px
 }
 
@@ -5248,7 +5248,7 @@ footer .wpcf7-form-control-wrap .wpcf7-not-valid-tip {
     color: #fff
 }
 
-#footer .wiso-recent-post-widget .recent-img {
+#footer .WISO-recent-post-widget .recent-img {
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center;
@@ -5261,19 +5261,19 @@ footer .wpcf7-form-control-wrap .wpcf7-not-valid-tip {
     flex-shrink: 0
 }
 
-#footer .wiso-recent-post-widget a,
-#footer .wiso-recent-post-widget .recent-date {
+#footer .WISO-recent-post-widget a,
+#footer .WISO-recent-post-widget .recent-date {
     color: #fff;
     opacity: .7
 }
 
-#footer .wiso-recent-post-widget a {
+#footer .WISO-recent-post-widget a {
     font-weight: 800;
     line-height: 1.4;
     text-decoration: none
 }
 
-#footer .wiso-recent-post-widget .recent-block {
+#footer .WISO-recent-post-widget .recent-block {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -5307,17 +5307,17 @@ footer .wpcf7-form-control-wrap .wpcf7-not-valid-tip {
     margin-left: 0
 }
 
-.WisoInstagramWidget {
+.WISOInstagramWidget {
     color: white
 }
 
-.WisoInstagramWidget .insta-logo {
+.WISOInstagramWidget .insta-logo {
     max-height: 60px;
     width: auto;
     margin-bottom: 40px
 }
 
-.WisoInstagramWidget h3.insta-logo {
+.WISOInstagramWidget h3.insta-logo {
     font-size: 40px;
     font-weight: 900;
     letter-spacing: .6px;
@@ -5325,12 +5325,12 @@ footer .wpcf7-form-control-wrap .wpcf7-not-valid-tip {
     text-transform: none
 }
 
-.WisoInstagramWidget .instagram-text {
+.WISOInstagramWidget .instagram-text {
     margin-top: 15px;
     text-align: center
 }
 
-.WisoInstagramWidget .instagram-text a {
+.WISOInstagramWidget .instagram-text a {
     text-decoration: none;
     color: #222;
     font-family: "EB Garamond", serif;
@@ -5338,15 +5338,15 @@ footer .wpcf7-form-control-wrap .wpcf7-not-valid-tip {
     letter-spacing: .2px
 }
 
-.WisoInstagramWidget .instagram-text a:hover {
+.WISOInstagramWidget .instagram-text a:hover {
     opacity: .7
 }
 
-.WisoInstagramWidget .images-wrap {
+.WISOInstagramWidget .images-wrap {
     text-align: center
 }
 
-.WisoInstagramWidget .insta-images {
+.WISOInstagramWidget .insta-images {
     height: 90px;
     width: 90px;
     max-width: calc(33% - (30px / 3));
@@ -5429,7 +5429,7 @@ footer .wpcf7-form-control-wrap .wpcf7-not-valid-tip {
         display: inline-block
     }
 
-    #footer .WisoInstagramWidget .item-wrap,
+    #footer .WISOInstagramWidget .item-wrap,
     #footer .SocialLinkWidget .item-wrap {
         max-width: 320px
     }
@@ -5462,8 +5462,8 @@ footer .wpcf7-form-control-wrap .wpcf7-not-valid-tip {
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 
-    #footer .WisoInstagramWidget .insta-images:last-child,
-    #footer .WisoInstagramWidget .insta-images:nth-last-child(2) {
+    #footer .WISOInstagramWidget .insta-images:last-child,
+    #footer .WISOInstagramWidget .insta-images:nth-last-child(2) {
         display: none
     }
 }
@@ -5485,7 +5485,7 @@ footer .wpcf7-form-control-wrap .wpcf7-not-valid-tip {
         display: inline-block
     }
 
-    #footer .ContactWidget .wiso-widget-contact,
+    #footer .ContactWidget .WISO-widget-contact,
     #footer .ContactWidget .contact_content {
         max-width: 100%
     }
@@ -5514,28 +5514,28 @@ footer .wpcf7-form-control-wrap .wpcf7-not-valid-tip {
         text-align: center
     }
 
-    #footer.modern .wiso-widget-subscribe {
+    #footer.modern .WISO-widget-subscribe {
         text-align: center
     }
 
-    #footer.modern .wiso-widget-subscribe .wiso-widget-descr {
+    #footer.modern .WISO-widget-subscribe .WISO-widget-descr {
         text-align: center
     }
 
-    #footer.modern .wiso-widget-subscribe p {
+    #footer.modern .WISO-widget-subscribe p {
         max-width: 260px;
         margin: 0 auto
     }
 
-    #footer.modern .wiso-widget-subscribe h3.wiso-widget-subscribe {
+    #footer.modern .WISO-widget-subscribe h3.WISO-widget-subscribe {
         text-align: center !important
     }
 
-    #footer.modern .wiso-widget-copyright {
+    #footer.modern .WISO-widget-copyright {
         text-align: center
     }
 
-    #footer.modern .wiso-widget-copyright .copy_content {
+    #footer.modern .WISO-widget-copyright .copy_content {
         text-align: center
     }
 
@@ -5590,7 +5590,7 @@ footer .wpcf7-form-control-wrap .wpcf7-not-valid-tip {
         margin-top: 0
     }
 
-    #footer .WisoInstagramWidget .insta-images {
+    #footer .WISOInstagramWidget .insta-images {
         height: 60px;
         width: 60px
     }
@@ -5685,11 +5685,11 @@ footer .wpcf7-form-control-wrap .wpcf7-not-valid-tip {
         margin-bottom: 25px
     }
 
-    #footer.simple .sidebar-item .wiso-widget-subscribe .wiso-widget-descr {
+    #footer.simple .sidebar-item .WISO-widget-subscribe .WISO-widget-descr {
         margin-bottom: 0
     }
 
-    #footer.modern .wiso-widget-copyright .img-wrap {
+    #footer.modern .WISO-widget-copyright .img-wrap {
         margin-bottom: 28px
     }
 
@@ -6324,16 +6324,16 @@ footer .wpcf7-form-control-wrap .wpcf7-not-valid-tip {
 .col-md-3 .ContactWidget .contact_url,
 .col-md-3 .ContactWidget div.contact_content,
 .col-md-3 .ContactWidget a.fa,
-.col-md-3 .wisoInstagramWidget,
+.col-md-3 .WISOInstagramWidget,
 .col-md-4 .ContactWidget .contact_url,
 .col-md-4 .ContactWidget div.contact_content,
 .col-md-4 .ContactWidget a.fa,
-.col-md-4 .wisoInstagramWidget {
+.col-md-4 .WISOInstagramWidget {
     color: #222222
 }
 
-.col-md-3 .wisoInstagramWidget a,
-.col-md-4 .wisoInstagramWidget a {
+.col-md-3 .WISOInstagramWidget a,
+.col-md-4 .WISOInstagramWidget a {
     max-width: calc(25% - (40px / 4))
 }
 
@@ -7424,4 +7424,4 @@ body.single-whizzy_proof_gallery .whizzy-data .grid__item .a-btn-2 i {
     }
 }
 
-/*# sourceMappingURL=wiso.min.css.map */
+/*# sourceMappingURL=WISO.min.css.map */

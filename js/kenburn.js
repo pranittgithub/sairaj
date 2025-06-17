@@ -130,7 +130,7 @@
     var _ismobile = navigator.userAgent.match(/Android/i) || navigator.userAgent.match(/webOS/i) || navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPad/i) || navigator.userAgent.match(/iPod/i);
 
 // for sound bg
-  $('.wiso-sound-btn').on('click',function(){
+  $('.WISO-sound-btn').on('click',function(){
 
     var $button = $(this);
     if ($button.hasClass('play')) {
@@ -152,18 +152,18 @@
                     bottomplay = $('#footer').hasClass('fix-bottom') ? ($('#footer').outerHeight() + 60) : 30;
 
               $(this).find('.kenburns-play').css('bottom', bottomplay + 'px');
-                $(this).find('.wiso-sound-btn').css('bottom', bottomplay + 'px');
+                $(this).find('.WISO-sound-btn').css('bottom', bottomplay + 'px');
                 $(this).find('.but-eye-wrap').css('bottom', bottomplay + 40 + 'px');
 
                 $(this).css('height', sliderH + 'px');
 
                 if($(window).width() < 768 && _ismobile){
-                    $(this).find('.wiso-sound-btn').css('bottom', bottomplay - 50 + 'px');
+                    $(this).find('.WISO-sound-btn').css('bottom', bottomplay - 50 + 'px');
                     $(this).find('.but-eye-wrap').css('bottom', bottomplay - 10 + 'px');
                     $(this).find('.caption').css('bottom', bottomplay - 30 + 'px');
                 }else{
                     $(this).find('.caption').css('bottom', bottomplay - 20 + 'px');
-                    $(this).find('.wiso-sound-btn').css('bottom', bottomplay + 'px');
+                    $(this).find('.WISO-sound-btn').css('bottom', bottomplay + 'px');
                     $(this).find('.but-eye-wrap').css('bottom', bottomplay + 40 + 'px');
                 }
 
@@ -207,8 +207,8 @@
             }
         }
 
-        if ($('.wiso-sound-btn').length && $('.wiso-sound-btn').hasClass('play')) {
-            $('.wiso-sound-btn').next('audio').trigger('play');
+        if ($('.WISO-sound-btn').length && $('.WISO-sound-btn').hasClass('play')) {
+            $('.WISO-sound-btn').next('audio').trigger('play');
         }
     }
 

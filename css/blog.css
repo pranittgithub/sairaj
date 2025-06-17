@@ -1565,35 +1565,35 @@ body.search .post.center-style .info-wrap {
     opacity: 1;
    font-family: "EB Garamond", serif;    font-weight: 600;
     margin-bottom: 5px; }
-  .main-wrapper .col-md-4 .sidebar-item .wiso-widget-about .img-wrap,
-  .main-wrapper .col-md-3 .sidebar-item .wiso-widget-about .img-wrap {
+  .main-wrapper .col-md-4 .sidebar-item .WISO-widget-about .img-wrap,
+  .main-wrapper .col-md-3 .sidebar-item .WISO-widget-about .img-wrap {
     margin: -20px -20px 20px -20px; }
-  .main-wrapper .col-md-4 .sidebar-item .wiso-widget-about .text,
-  .main-wrapper .col-md-3 .sidebar-item .wiso-widget-about .text {
+  .main-wrapper .col-md-4 .sidebar-item .WISO-widget-about .text,
+  .main-wrapper .col-md-3 .sidebar-item .WISO-widget-about .text {
     color: #999999;
     font-size: 15px;
     line-height: 1.6;
     letter-spacing: .2px; }
-  .main-wrapper .col-md-4 .sidebar-item .wiso-recent-post-widget .recent-block,
-  .main-wrapper .col-md-3 .sidebar-item .wiso-recent-post-widget .recent-block {
+  .main-wrapper .col-md-4 .sidebar-item .WISO-recent-post-widget .recent-block,
+  .main-wrapper .col-md-3 .sidebar-item .WISO-recent-post-widget .recent-block {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
     margin-bottom: 30px; }
-  .main-wrapper .col-md-4 .sidebar-item .wiso-recent-post-widget .recent-text a,
-  .main-wrapper .col-md-3 .sidebar-item .wiso-recent-post-widget .recent-text a {
+  .main-wrapper .col-md-4 .sidebar-item .WISO-recent-post-widget .recent-text a,
+  .main-wrapper .col-md-3 .sidebar-item .WISO-recent-post-widget .recent-text a {
     color: #222222;
     font-size: 15px;
     font-weight: 800;
     line-height: 1.6;
     letter-spacing: .2px; }
-  .main-wrapper .col-md-4 .sidebar-item .wiso-recent-post-widget .recent-date,
-  .main-wrapper .col-md-3 .sidebar-item .wiso-recent-post-widget .recent-date {
+  .main-wrapper .col-md-4 .sidebar-item .WISO-recent-post-widget .recent-date,
+  .main-wrapper .col-md-3 .sidebar-item .WISO-recent-post-widget .recent-date {
     color: #999999;
     font-size: 13px;
     letter-spacing: .2px; }
-  .main-wrapper .col-md-4 .sidebar-item .wiso-recent-post-widget .recent-img,
-  .main-wrapper .col-md-3 .sidebar-item .wiso-recent-post-widget .recent-img {
+  .main-wrapper .col-md-4 .sidebar-item .WISO-recent-post-widget .recent-img,
+  .main-wrapper .col-md-3 .sidebar-item .WISO-recent-post-widget .recent-img {
     -ms-flex-negative: 0;
     flex-shrink: 0;
     width: 75px;
@@ -3160,8 +3160,8 @@ table th {
   .col-md-4 .sidebar-item {
     margin-bottom: 15px; }
 
-  .main-wrapper .col-md-3 .sidebar-item .wiso-widget-about .img-wrap,
-  .main-wrapper .col-md-4 .sidebar-item .wiso-widget-about .img-wrap {
+  .main-wrapper .col-md-3 .sidebar-item .WISO-widget-about .img-wrap,
+  .main-wrapper .col-md-4 .sidebar-item .WISO-widget-about .img-wrap {
     margin-left: 0;
     margin-right: 0; }
 

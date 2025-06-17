@@ -213,8 +213,8 @@ footer.zindex {
 .header_top_bg.bg-fixed-color.menu_light_text .right-menu #topmenu ul li a,
 .header_top_bg.bg-fixed-color .right-menu #topmenu .search-icon-wrapper i,
 .header_top_bg.bg-fixed-color.menu_light_text .right-menu #topmenu .search-icon-wrapper i,
-.header_top_bg.bg-fixed-color .right-menu #topmenu .wiso-shop-icon::before,
-.header_top_bg.bg-fixed-color.menu_light_text .right-menu #topmenu .wiso-shop-icon::before {
+.header_top_bg.bg-fixed-color .right-menu #topmenu .WISO-shop-icon::before,
+.header_top_bg.bg-fixed-color.menu_light_text .right-menu #topmenu .WISO-shop-icon::before {
     color: #222222;
 }
 .header_top_bg.bg-fixed-dark .top-menu .logo span,
@@ -222,8 +222,8 @@ footer.zindex {
 .header_top_bg.bg-fixed-dark.menu_light_text .right-menu #topmenu ul  li a,
 .header_top_bg.bg-fixed-dark .right-menu #topmenu .search-icon-wrapper i,
 .header_top_bg.bg-fixed-dark.menu_light_text .right-menu #topmenu .search-icon-wrapper i,
-.header_top_bg.bg-fixed-dark .right-menu #topmenu .wiso-shop-icon::before,
-.header_top_bg.bg-fixed-dark.menu_light_text .right-menu #topmenu .wiso-shop-icon::before {
+.header_top_bg.bg-fixed-dark .right-menu #topmenu .WISO-shop-icon::before,
+.header_top_bg.bg-fixed-dark.menu_light_text .right-menu #topmenu .WISO-shop-icon::before {
     color: #ffffff;
 }
 .header_top_bg.bg-fixed-dark .right-menu #topmenu ul.sub-menu li a,
@@ -376,14 +376,14 @@ footer.zindex {
 .right-menu .topmenu.open .mob-nav .line {
     background-color: #222222;
 }
-.wiso-top-social {
+.WISO-top-social {
     display: inline-block;
     margin-left: 0px;
     position: relative;
     vertical-align: middle;
 }
 
-.wiso-top-social .social-icon {
+.WISO-top-social .social-icon {
     display: none;
     font-size: 14px;
     color: #222222;
@@ -395,15 +395,15 @@ footer.zindex {
     z-index: 30;
 }
 
-.header_trans-fixed .wiso-top-social .social-icon {
+.header_trans-fixed .WISO-top-social .social-icon {
     color: #fff;
 }
 
-.wiso-top-social .social-icon:hover {
+.WISO-top-social .social-icon:hover {
     opacity: 0.7;
 }
 
-#topmenu .wiso-top-social .social {
+#topmenu .WISO-top-social .social {
     margin-left: 0;
 }
 
@@ -412,35 +412,35 @@ footer.zindex {
     margin-left: 12px;
 }
 
-#topmenu .wiso-top-social .social li a {
+#topmenu .WISO-top-social .social li a {
     margin-left: 0;
     color: #222222;
     opacity: 1;
     transition: opacity 0.3s ease;
 }
 
-.header_trans-fixed .right-menu #topmenu .wiso-top-social .social li a {
+.header_trans-fixed .right-menu #topmenu .WISO-top-social .social li a {
     color: #fff;
 }
 
-#topmenu .wiso-top-social .social li a:hover {
+#topmenu .WISO-top-social .social li a:hover {
     opacity: 1;
 }
 
-.header_trans-fixed .right-menu #topmenu .wiso-top-social .social {
+.header_trans-fixed .right-menu #topmenu .WISO-top-social .social {
     background-color: transparent;
 }
 
-#topmenu .wiso-top-social .social li {
+#topmenu .WISO-top-social .social li {
     margin: 5px;
 }
 
-#topmenu .wiso-top-social .social.active {
+#topmenu .WISO-top-social .social.active {
     visibility: visible;
     opacity: 1;
 }
 
-#topmenu .wiso-top-social .social li a {
+#topmenu .WISO-top-social .social li a {
     line-height: 1.2;
 }
 
@@ -448,7 +448,7 @@ footer.zindex {
     display: none;
 }
 
-#topmenu .wiso_mini_cart .product_list_widget .mini_cart_item .mini-cart-data .mini_cart_item_price {
+#topmenu .WISO_mini_cart .product_list_widget .mini_cart_item .mini-cart-data .mini_cart_item_price {
     font-family: "EB Garamond", serif;      color: #222;
     font-size: 15px;
     font-weight: 600;
@@ -461,11 +461,11 @@ footer.zindex {
 }
 
 
-.mini-cart-wrapper .wiso-shop-icon:hover::before {
+.mini-cart-wrapper .WISO-shop-icon:hover::before {
     color: #999;
 }
 
-.mini-cart-wrapper .wiso-shop-icon:before {
+.mini-cart-wrapper .WISO-shop-icon:before {
     position: relative;
     display: inline-block;
     line-height: 1;
@@ -478,7 +478,7 @@ footer.zindex {
     font-size: 18px;
 }
 
-.mini-cart-wrapper .wiso-shop-icon .cart-contents {
+.mini-cart-wrapper .WISO-shop-icon .cart-contents {
     display: -ms-inline-flexbox;
     display: inline-flex;
     -webkit-box-align: center;
@@ -494,13 +494,13 @@ footer.zindex {
     height: 20px;
 }
 
-.mini-cart-wrapper .wiso-shop-icon .cart-contents-count {
+.mini-cart-wrapper .WISO-shop-icon .cart-contents-count {
     font-size: 12px;
     font-weight: 600;
     color: #222;
 }
 
-.wiso_mini_cart {
+.WISO_mini_cart {
     position: absolute;
     right: -20px;
     top: 50px;
@@ -514,16 +514,16 @@ footer.zindex {
     transition: opacity 0.5s ease, visibility 0.5s ease;
     box-shadow: 3px 1px 20px 0 rgba(0, 0, 0, 0.07);
 }
-.header_trans-fixed #topmenu .wiso_mini_cart .cart_list .mini_cart_item .remove_from_cart_button {
+.header_trans-fixed #topmenu .WISO_mini_cart .cart_list .mini_cart_item .remove_from_cart_button {
     color: #d8d8d8;
 }
-#topmenu .wiso_mini_cart .cart_list .mini_cart_item .remove_from_cart_button {
+#topmenu .WISO_mini_cart .cart_list .mini_cart_item .remove_from_cart_button {
     padding: 0;
     color: #d8d8d8;
     font-size: 30px;
     font-weight: 400;
 }
-#topmenu .wiso_mini_cart .wiso-buttons {
+#topmenu .WISO_mini_cart .WISO-buttons {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -535,7 +535,7 @@ footer.zindex {
     justify-content: space-between;
     margin-bottom: 30px;
 }
-#topmenu .wiso_mini_cart .wiso-buttons a {
+#topmenu .WISO_mini_cart .WISO-buttons a {
     display: -ms-inline-flexbox;
     display: inline-flex;
     -webkit-box-align: center;
@@ -549,13 +549,13 @@ footer.zindex {
     text-transform: uppercase;
     text-decoration: none;
 }
-#topmenu .wiso_mini_cart .wiso-buttons a:hover i {
+#topmenu .WISO_mini_cart .WISO-buttons a:hover i {
     margin-left: 10px;
 }
 .post_hide{
     display: none!important;
 }
-#topmenu .wiso_mini_cart .wiso-buttons a i {
+#topmenu .WISO_mini_cart .WISO-buttons a i {
     margin-left: 5px;
     color: #222;
     font-size: 10px;
@@ -575,16 +575,16 @@ footer.zindex {
     font-size: 18px;
     font-weight: 600;
 }
-.mini-cart-wrapper:hover .wiso_mini_cart {
+.mini-cart-wrapper:hover .WISO_mini_cart {
     opacity: 1;
     visibility: visible;
 }
 
-#topmenu .wiso_mini_cart .product_list_widget {
+#topmenu .WISO_mini_cart .product_list_widget {
     display: block;
 }
 
-#topmenu .wiso_mini_cart .product_list_widget .empty {
+#topmenu .WISO_mini_cart .product_list_widget .empty {
     font-size: 18px;
     line-height: 28px;
     letter-spacing: 1.4px;
@@ -592,7 +592,7 @@ footer.zindex {
     color: #fff;
 }
 
-#topmenu .wiso_mini_cart .product_list_widget .mini_cart_item {
+#topmenu .WISO_mini_cart .product_list_widget .mini_cart_item {
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
@@ -608,7 +608,7 @@ footer.zindex {
     border-bottom: 1px solid #ddd;
 }
 
-#topmenu .wiso_mini_cart .product_list_widget .mini_cart_item .mini_cart_item_thumbnail {
+#topmenu .WISO_mini_cart .product_list_widget .mini_cart_item .mini_cart_item_thumbnail {
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
@@ -617,19 +617,19 @@ footer.zindex {
     margin-top: 7px;
 }
 
-#topmenu .wiso_mini_cart .product_list_widget .mini_cart_item .mini_cart_item_thumbnail a {
+#topmenu .WISO_mini_cart .product_list_widget .mini_cart_item .mini_cart_item_thumbnail a {
     padding: 0;
     display: block;
 }
 
-#topmenu .wiso_mini_cart .product_list_widget .mini_cart_item .mini_cart_item_thumbnail img {
+#topmenu .WISO_mini_cart .product_list_widget .mini_cart_item .mini_cart_item_thumbnail img {
     float: none;
     max-width: 70px;
     width: 100%;
     margin-left: 0;
 }
 
-#topmenu .wiso_mini_cart .product_list_widget .mini_cart_item .mini-cart-data {
+#topmenu .WISO_mini_cart .product_list_widget .mini_cart_item .mini-cart-data {
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
@@ -646,7 +646,7 @@ footer.zindex {
     padding-left: 20px;
 }
 
-#topmenu .wiso_mini_cart .product_list_widget .mini_cart_item .mini-cart-data .mini_cart_item_name {
+#topmenu .WISO_mini_cart .product_list_widget .mini_cart_item .mini-cart-data .mini_cart_item_name {
    font-family: "EB Garamond", serif;    font-size: 15px;
     line-height: 1.6;
     letter-spacing: 1.2px;
@@ -656,7 +656,7 @@ footer.zindex {
     padding: 0;
 }
 
-#topmenu .wiso_mini_cart .product_list_widget .mini_cart_item .mini-cart-data .mini_cart_item_quantity {
+#topmenu .WISO_mini_cart .product_list_widget .mini_cart_item .mini-cart-data .mini_cart_item_quantity {
     font-family: "EB Garamond", serif;      font-size: 12px;
     line-height: 20px;
     letter-spacing: 2.88px;
@@ -665,7 +665,7 @@ footer.zindex {
     margin-bottom: 3px;
 }
 
-#topmenu .wiso_mini_cart a.button {
+#topmenu .WISO_mini_cart a.button {
     margin-bottom: 0;
     letter-spacing: 1.2px;
     line-height: 20px;
@@ -685,14 +685,14 @@ footer.zindex {
     -o-transition: all .3s ease;
     transition: all .3s ease;
 }
-#topmenu .wiso_mini_cart a.button:hover {
+#topmenu .WISO_mini_cart a.button:hover {
     background-color: #222;
     color: #ffffff;
     background-image: none;
     border-color: #222;
 }
 
-#topmenu .wiso_mini_cart a.button:hover::after {
+#topmenu .WISO_mini_cart a.button:hover::after {
     right: 20px;
 }
 
@@ -700,11 +700,11 @@ footer.zindex {
     display: none;
 }
 
-.header_trans-fixed.header_top_bg .mini-cart-wrapper .wiso-shop-icon .cart-contents-count {
+.header_trans-fixed.header_top_bg .mini-cart-wrapper .WISO-shop-icon .cart-contents-count {
     color: #fff;
 }
 
-.wiso_mini_cart .product_list_widget .mini_cart_item .mini_cart_item_thumbnail img {
+.WISO_mini_cart .product_list_widget .mini_cart_item .mini_cart_item_thumbnail img {
     height: auto;
 }
 
@@ -719,14 +719,14 @@ footer.zindex {
 figure{
     text-align: center;
 }
-#topmenu .wiso_mini_cart .product_list_widget .mini_cart_item .mini-cart-data .mini_cart_item_price {
+#topmenu .WISO_mini_cart .product_list_widget .mini_cart_item .mini-cart-data .mini_cart_item_price {
     font-size: 12px;
 }
 .img_about_two{
     display: none!important;
     text-align: center;
 }
-.unit .mini-cart-wrapper .wiso-shop-icon {
+.unit .mini-cart-wrapper .WISO-shop-icon {
     font-size: 25px;
 }
 
@@ -749,7 +749,7 @@ header .logo:hover {
     background-color: #fcf9f6!important;
 }
 @media only screen and (max-width: 1199px) {
-    .wiso-top-social {
+    .WISO-top-social {
         margin-left: 5px;
     }
 }
@@ -761,7 +761,7 @@ header .logo:hover {
     .menu_light_text.header_top_bg  .logo span,
     .menu_light_text.header_top_bg .right-menu .logo span,
     .menu_light_text.header_top_bg .right-menu #topmenu ul li a,
-    .menu_light_text.header_top_bg .right-menu #topmenu .wiso-shop-icon::before,
+    .menu_light_text.header_top_bg .right-menu #topmenu .WISO-shop-icon::before,
     .menu_light_text.header_top_bg .right-menu #topmenu .search-icon-wrapper i,
     .menu_light_text.header_top_bg .right-menu .socials-mob-but i {
         color: #ffffff;
@@ -772,7 +772,7 @@ header .logo:hover {
     .mob-nav-close {
         display: none;
     }
-    .aside-menu .mini-cart-wrapper:hover .wiso_mini_cart {
+    .aside-menu .mini-cart-wrapper:hover .WISO_mini_cart {
         opacity: 0;
         visibility: hidden;
     }
@@ -799,7 +799,7 @@ header .logo:hover {
         left: -20px;
     }
 
-    .top-menu .wiso-top-social {
+    .top-menu .WISO-top-social {
         margin-left: 10px;
     }
 
@@ -952,7 +952,7 @@ header .logo:hover {
         left: calc(-100% - 30px);
     }
 
-    #topmenu .wiso-top-social .social {
+    #topmenu .WISO-top-social .social {
         z-index: 25;
         text-align: left;
         transition: opacity 0.3s ease;
@@ -1095,16 +1095,16 @@ header .logo:hover {
         z-index: 2;
     }
 
-    .aside-menu #topmenu .f-right .wiso-top-social {
+    .aside-menu #topmenu .f-right .WISO-top-social {
         margin-left: 0;
     }
 
-    .aside-menu #topmenu .f-right .wiso-top-social li {
+    .aside-menu #topmenu .f-right .WISO-top-social li {
         margin-right: 5px;
         margin-left: 5px;
     }
 
-    .aside-menu #topmenu .f-right .wiso-top-social li {
+    .aside-menu #topmenu .f-right .WISO-top-social li {
         margin-left: 0;
         margin-right: 10px;
     }
@@ -1296,7 +1296,7 @@ header .logo:hover {
         overflow-x: hidden;
     }
 
-    .header_trans-fixed.header_top_bg .mini-cart-wrapper .wiso-shop-icon .cart-contents-count {
+    .header_trans-fixed.header_top_bg .mini-cart-wrapper .WISO-shop-icon .cart-contents-count {
         color: #222222;
     }
 
@@ -1551,17 +1551,17 @@ header .logo:hover {
         padding: 5px;
     }
 
-    .wiso-top-social .social-icon {
+    .WISO-top-social .social-icon {
         display: none;
     }
 
-    .right-menu #topmenu .wiso-top-social .social {
+    .right-menu #topmenu .WISO-top-social .social {
         position: static;
         visibility: visible;
         opacity: 1;
     }
 
-    .header_trans-fixed.open .right-menu #topmenu .wiso-top-social .social li a {
+    .header_trans-fixed.open .right-menu #topmenu .WISO-top-social .social li a {
         color: #222222;
     }
 
@@ -1570,7 +1570,7 @@ header .logo:hover {
         margin: 20px 10px 30px 10px;
     }
 
-    .wiso_mini_cart {
+    .WISO_mini_cart {
         opacity: 1;
         visibility: visible;
         position: relative;
@@ -1620,7 +1620,7 @@ header .logo:hover {
         visibility: visible;
     }
 
-    #topmenu .f-right .header_trans-fixed.open .right-menu #topmenu .wiso-top-social .social li a {
+    #topmenu .f-right .header_trans-fixed.open .right-menu #topmenu .WISO-top-social .social li a {
         transition: none;
     }
 
@@ -1640,12 +1640,12 @@ header .logo:hover {
     }
 
     #topmenu .social .fa,
-    .mini-cart-wrapper .wiso-shop-icon {
+    .mini-cart-wrapper .WISO-shop-icon {
         font-size: 28px;
         transition: none;
     }
 
-    .mini-cart-wrapper .wiso-shop-icon {
+    .mini-cart-wrapper .WISO-shop-icon {
         margin: 5px;
     }
 
@@ -1655,8 +1655,8 @@ header .logo:hover {
     }
 
     .header_trans-fixed.header_top_bg.open header .socials-mob-but i,
-    .header_trans-fixed #topmenu .wiso-top-social .social li a,
-    .header_trans-fixed .mini-cart-wrapper .wiso-shop-icon::before {
+    .header_trans-fixed #topmenu .WISO-top-social .social li a,
+    .header_trans-fixed .mini-cart-wrapper .WISO-shop-icon::before {
         color: #222222 !important;
     }
 
@@ -1669,16 +1669,16 @@ header .logo:hover {
         vertical-align: middle;
     }
 
-    .wiso_mini_cart {
+    .WISO_mini_cart {
         display: none;
     }
 
-    .wiso-top-social {
+    .WISO-top-social {
         vertical-align: middle;
         margin-left: 0;
     }
 
-    .mini-cart-wrapper .wiso-shop-icon:before {
+    .mini-cart-wrapper .WISO-shop-icon:before {
         margin-top: -3px;
         font-size: 28px;
     }
@@ -2231,7 +2231,7 @@ header .logo:hover {
         margin-top: 20px;
     }
 
-    .static-menu .wiso-woocommerce-pagination .nav-links {
+    .static-menu .WISO-woocommerce-pagination .nav-links {
         padding: 30px 30px 70px;
     }
 
@@ -2492,11 +2492,11 @@ header .logo:hover {
         overflow: hidden;
     }
     .static-menu .headings-wrap,
-    .static-menu .wiso-post-list-1,
-    .static-menu .wiso-post-list-2,
-    .static-menu .wiso-portfolio-2,
-    .static-menu .wiso-portfolio-3,
-    .static-menu .wiso-portfolio-urban {
+    .static-menu .WISO-post-list-1,
+    .static-menu .WISO-post-list-2,
+    .static-menu .WISO-portfolio-2,
+    .static-menu .WISO-portfolio-3,
+    .static-menu .WISO-portfolio-urban {
         padding: 0 15px;
     }
     .static-menu .contacts-info-wrap {
@@ -2537,11 +2537,11 @@ header .logo:hover {
 }
 
 @media only screen and (min-width: 1025px) and (max-width: 1200px) {
-    .static-menu.single-product .product .woocommerce-Reviews #comments, .static-menu.wiso_product_detail .product .woocommerce-Reviews #comments {
+    .static-menu.single-product .product .woocommerce-Reviews #comments, .static-menu.WISO_product_detail .product .woocommerce-Reviews #comments {
         width: 60%;
     }
 
-    .static-menu.single-product .product .woocommerce-Reviews #review_form_wrapper, .static-menu.wiso_product_detail .product .woocommerce-Reviews #review_form_wrapper {
+    .static-menu.single-product .product .woocommerce-Reviews #review_form_wrapper, .static-menu.WISO_product_detail .product .woocommerce-Reviews #review_form_wrapper {
         width: 40%;
     }
 
@@ -3180,16 +3180,16 @@ header .logo:hover {
 
     .header_trans-fixed.header_top_bg.bg-fixed-color #topmenu:not(.open) ul li a,
     .header_trans-fixed.header_top_bg.bg-fixed-color #topmenu .search-icon-wrapper i,
-    .header_trans-fixed.header_top_bg.bg-fixed-color #topmenu .mini-cart-wrapper .wiso-shop-icon::before,
-    .header_trans-fixed.header_top_bg.bg-fixed-color #topmenu .wiso-top-social .social li a,
+    .header_trans-fixed.header_top_bg.bg-fixed-color #topmenu .mini-cart-wrapper .WISO-shop-icon::before,
+    .header_trans-fixed.header_top_bg.bg-fixed-color #topmenu .WISO-top-social .social li a,
     .header_trans-fixed.header_top_bg.bg-fixed-color .header_top_bg .right-menu.full #topmenu ul li a,
     .header_trans-fixed.header_top_bg.bg-fixed-color .right-menu .logo span,
     .header_trans-fixed.header_top_bg.bg-fixed-color .top-menu .logo span,
     .header_trans-fixed.header_top_bg.bg-fixed-color .aside-menu.static #topmenu .f-right .copy,
     .header_trans-fixed.header_top_bg.bg-fixed-color #topmenu:not(.open) ul li a,
     .header_trans-fixed.header_top_bg.bg-fixed-color #topmenu .search-icon-wrapper i,
-    .header_trans-fixed.header_top_bg.bg-fixed-color #topmenu .mini-cart-wrapper .wiso-shop-icon::before,
-    .header_trans-fixed.header_top_bg.bg-fixed-color #topmenu .wiso-top-social .social li a,
+    .header_trans-fixed.header_top_bg.bg-fixed-color #topmenu .mini-cart-wrapper .WISO-shop-icon::before,
+    .header_trans-fixed.header_top_bg.bg-fixed-color #topmenu .WISO-top-social .social li a,
     .header_trans-fixed.header_top_bg.bg-fixed-color .header_top_bg .right-menu.full #topmenu ul li a,
     .header_trans-fixed.header_top_bg.bg-fixed-color .right-menu .logo span,
     .header_trans-fixed.header_top_bg.bg-fixed-color .top-menu .logo span,
@@ -3259,13 +3259,13 @@ header .logo:hover {
 
 #topmenu ul li a,
 #topmenu .search-icon-wrapper i,
-.mini-cart-wrapper .wiso-shop-icon:before,
-#topmenu .wiso-top-social .social li a,
+.mini-cart-wrapper .WISO-shop-icon:before,
+#topmenu .WISO-top-social .social li a,
 .header_top_bg .right-menu.full #topmenu ul li a,
 .right-menu .logo span,
 .top-menu .logo span,
 .classic #topmenu .menu li a,
-.mini-cart-wrapper .wiso-shop-icon .cart-contents-count,
+.mini-cart-wrapper .WISO-shop-icon .cart-contents-count,
 .modern #topmenu .menu li a{
     color: #222;
 }
@@ -3303,12 +3303,12 @@ header .logo:hover {
 }
 .header_trans-fixed #topmenu ul li a,
 .header_trans-fixed #topmenu .search-icon-wrapper i,
-.header_trans-fixed .mini-cart-wrapper .wiso-shop-icon:before,
-.header_trans-fixed #topmenu .wiso-top-social .social li a,
+.header_trans-fixed .mini-cart-wrapper .WISO-shop-icon:before,
+.header_trans-fixed #topmenu .WISO-top-social .social li a,
 .header_trans-fixed .top-menu .logo span,
 .header_trans-fixed .aside-menu.static #topmenu .f-right .copy,
 .header_trans-fixed .classic #topmenu .menu li a,
-.header_trans-fixed .mini-cart-wrapper .wiso-shop-icon .cart-contents-count,
+.header_trans-fixed .mini-cart-wrapper .WISO-shop-icon .cart-contents-count,
 .header_trans-fixed .modern #topmenu .menu li a,
 .header_trans-fixed .modern .search-form input,
 .header_trans-fixed .modern .search-form input::placeholder,
@@ -3316,7 +3316,7 @@ header .logo:hover {
 .header_trans-fixed .aside-menu.static #topmenu .f-right .copy a,
 .header_trans-fixed .aside-menu.static #topmenu .menu li a,
 .header_trans-fixed .aside-menu.static .logo span,
-.header_trans-fixed.header_top_bg .mini-cart-wrapper .wiso-shop-icon .cart-contents-count {
+.header_trans-fixed.header_top_bg .mini-cart-wrapper .WISO-shop-icon .cart-contents-count {
     color: #222;
 }
 
@@ -3382,8 +3382,8 @@ header .logo:hover {
 
 .header_trans-fixed.header_top_bg.bg-fixed-color #topmenu ul li a,
 .header_trans-fixed.header_top_bg.bg-fixed-color #topmenu .search-icon-wrapper i,
-.header_trans-fixed.header_top_bg.bg-fixed-color #topmenu .mini-cart-wrapper .wiso-shop-icon::before,
-.header_trans-fixed.header_top_bg.bg-fixed-color #topmenu .wiso-top-social .social li a,
+.header_trans-fixed.header_top_bg.bg-fixed-color #topmenu .mini-cart-wrapper .WISO-shop-icon::before,
+.header_trans-fixed.header_top_bg.bg-fixed-color #topmenu .WISO-top-social .social li a,
 .header_trans-fixed.header_top_bg.bg-fixed-color .header_top_bg .right-menu.full #topmenu ul li a,
 .header_trans-fixed.header_top_bg.bg-fixed-color .right-menu.full .mob-nav > span,
 .header_trans-fixed.header_top_bg.bg-fixed-color .right-menu .logo span,
@@ -3391,7 +3391,7 @@ header .logo:hover {
 .header_trans-fixed.header_top_bg.bg-fixed-color .right-menu.full .copy,
 .header_trans-fixed.header_top_bg.bg-fixed-color .top-menu .logo span,
 .header_trans-fixed.header_top_bg.bg-fixed-color .aside-menu.static #topmenu .f-right .copy,
-.header_trans-fixed.header_top_bg.bg-fixed-color .mini-cart-wrapper .wiso-shop-icon .cart-contents-count,
+.header_trans-fixed.header_top_bg.bg-fixed-color .mini-cart-wrapper .WISO-shop-icon .cart-contents-count,
 .header_trans-fixed.header_top_bg.bg-fixed-color .modern .search-form input,
 .header_trans-fixed.header_top_bg.bg-fixed-color .modern .search-form input::placeholder {
     color: #222;
@@ -3432,7 +3432,7 @@ header .logo:hover {
 .aside-menu.static #topmenu .f-right .copy a,
 .aside-menu.static #topmenu .menu li a,
 .aside-menu.static .logo span,
-.aside-menu.static .mini-cart-wrapper .wiso-shop-icon .cart-contents-count,
+.aside-menu.static .mini-cart-wrapper .WISO-shop-icon .cart-contents-count,
 .aside-menu.static #topmenu .f-right .copy,
 .aside-menu.static .mini-cart-wrapper a::before {
     color: #fff;
@@ -3474,7 +3474,7 @@ header .logo:hover {
 .main-wrapper .col-md-4 .sidebar-item table th, .main-wrapper .col-md-4 .sidebar-item table a,
 .main-wrapper .col-md-3 .sidebar-item table th, .main-wrapper .col-md-3 .sidebar-item table a,
 .main-wrapper .col-md-4 .sidebar-item table caption, .main-wrapper .col-md-3 .sidebar-item table caption,
-.main-wrapper .col-md-4 .sidebar-item .wiso-recent-post-widget .recent-text a, .main-wrapper .col-md-3 .sidebar-item .wiso-recent-post-widget .recent-text a,
+.main-wrapper .col-md-4 .sidebar-item .WISO-recent-post-widget .recent-text a, .main-wrapper .col-md-3 .sidebar-item .WISO-recent-post-widget .recent-text a,
 .recent-post-single .recent-title,
 .sm-wrap-post .content .title,
     /*.pagination.cs-pager .page-numbers.next:after,*/
@@ -3531,7 +3531,7 @@ caption,
 .col-md-4 .sidebar-item.widget_rss h5 a, .col-md-3 .sidebar-item.widget_rss h5 a,
 .col-md-4 .sidebar-item.widget_rss a.rsswidget, .col-md-3 .sidebar-item.widget_rss a.rsswidget,
 .col-md-4 .sidebar-item.widget_rss cite, .col-md-3 .sidebar-item.widget_rss cite,
-.col-md-3 .ContactWidget .contact_url, .col-md-3 .ContactWidget div.contact_content, .col-md-3 .ContactWidget a.fa, .col-md-3 .wisoInstagramWidget, .col-md-4 .ContactWidget .contact_url, .col-md-4 .ContactWidget div.contact_content, .col-md-4 .ContactWidget a.fa, .col-md-4 .wisoInstagramWidget,
+.col-md-3 .ContactWidget .contact_url, .col-md-3 .ContactWidget div.contact_content, .col-md-3 .ContactWidget a.fa, .col-md-3 .WISOInstagramWidget, .col-md-4 .ContactWidget .contact_url, .col-md-4 .ContactWidget div.contact_content, .col-md-4 .ContactWidget a.fa, .col-md-4 .WISOInstagramWidget,
     /*.widget_product_search form::after,.widget_search form div::after,*/
 .sidebar-item span.product-title,
 dt,
@@ -3539,52 +3539,52 @@ dt,
     /*.protected-page form input[type="submit"]:hover,*/
 .unit strong, .unit b,
 .no-menu > a,
-.wiso-shop-main-banner ul li a,
-.single-product div.product .up-sells h2, .wiso_product_detail div.product .up-sells h2, .single-product .product .related.products h2, .wiso_product_detail .product .related.products h2,
+.WISO-shop-main-banner ul li a,
+.single-product div.product .up-sells h2, .WISO_product_detail div.product .up-sells h2, .single-product .product .related.products h2, .WISO_product_detail .product .related.products h2,
 .woocommerce div.product form.cart .button:hover,
-.woocommerce .single-product div.product p.price ins, .woocommerce .wiso_product_detail div.product span.price ins, .woocommerce .single-product div.product span.price ins, .woocommerce ul.products.default li.product .price ins, .wiso_cart.shop_table ul .cart_item ul .product-price ins, .wiso_cart.shop_table ul .cart_item ul .product-subtotal ins, #topmenu .wiso_mini_cart .product_list_widget .mini_cart_item .mini-cart-data .mini_cart_item_price ins, .woocommerce table.shop_table .cart_item .product-total ins, .woocommerce .wiso_product_detail div.product p.price ins,
-.woocommerce .single-product .star-rating, .woocommerce .wiso_product_detail .star-rating,
-.woocommerce .single-product .star-rating:before, .woocommerce .wiso_product_detail .star-rating:before,
-.woocommerce .wiso_images span.onsale, .woocommerce ul.products li.product .wiso-prod-list-image .onsale,
+.woocommerce .single-product div.product p.price ins, .woocommerce .WISO_product_detail div.product span.price ins, .woocommerce .single-product div.product span.price ins, .woocommerce ul.products.default li.product .price ins, .WISO_cart.shop_table ul .cart_item ul .product-price ins, .WISO_cart.shop_table ul .cart_item ul .product-subtotal ins, #topmenu .WISO_mini_cart .product_list_widget .mini_cart_item .mini-cart-data .mini_cart_item_price ins, .woocommerce table.shop_table .cart_item .product-total ins, .woocommerce .WISO_product_detail div.product p.price ins,
+.woocommerce .single-product .star-rating, .woocommerce .WISO_product_detail .star-rating,
+.woocommerce .single-product .star-rating:before, .woocommerce .WISO_product_detail .star-rating:before,
+.woocommerce .WISO_images span.onsale, .woocommerce ul.products li.product .WISO-prod-list-image .onsale,
 .woocommerce-page.woocommerce-cart .woocommerce input.button:hover, .woocommerce-page.woocommerce-checkout .woocommerce input.button:hover, .woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce a.button.alt:hover, .woocommerce button.button:hover, .woocommerce input.button:hover,
 .woocommerce-account .single-post p, .woocommerce-account .single-post strong,
-.woocommerce ul.products li.product .wiso-prod-list-image .wiso-add-to-cart a,
+.woocommerce ul.products li.product .WISO-prod-list-image .WISO-add-to-cart a,
 .woocommerce .woocommerce-thankyou-order-received,
 .woocommerce table.shop_table tfoot td,
 .woocommerce .product-name a,
 .product-gallery-wrap .on-new,
-.wiso_product_detail .social-list a,
-.single-product .product .summary .product_title, .wiso_product_detail .product .summary .product_title,
-.single-product .product .summary .cart .group_table td.label, .wiso_product_detail .product .summary .cart .group_table td.label,
-.single-product .product .summary .cart .variations .value ul li label, .wiso_product_detail .product .summary .cart .variations .value ul li label,
-.single-product .product .summary .product_meta .posted_in a:hover, .wiso_product_detail .product .summary .product_meta .posted_in a:hover,
-.single-product .product .summary .product_meta .tagged_as a:hover, .wiso_product_detail .product .summary .product_meta .tagged_as a:hover,
-.single-product div.product .woocommerce-tabs ul.tabs.wc-tabs li.active a, .wiso_product_detail div.product .woocommerce-tabs ul.tabs.wc-tabs li.active a,
-.single-product div.product .woocommerce-tabs .woocommerce-Tabs-panel h2, .wiso_product_detail div.product .woocommerce-tabs .woocommerce-Tabs-panel h2,
-.single-product .product #reviews #comments .commentlist .comment .comment-text .meta, .wiso_product_detail .product #reviews #comments .commentlist .comment .comment-text .meta,
-.single-product .product #reviews #comments .commentlist .comment .comment-text .description, .wiso_product_detail .product #reviews #comments .commentlist .comment .comment-text .description,
-.single-product .product .woocommerce-Reviews #review_form_wrapper .comment-reply-title, .wiso_product_detail .product .woocommerce-Reviews #review_form_wrapper .comment-reply-title,
-.single-product .product .woocommerce-Reviews #review_form_wrapper .comment-form-rating label, .wiso_product_detail .product .woocommerce-Reviews #review_form_wrapper .comment-form-rating label,
-.single-product .product .woocommerce-Reviews #review_form_wrapper input, .wiso_product_detail .product .woocommerce-Reviews #review_form_wrapper input, .single-product .product .woocommerce-Reviews #review_form_wrapper textarea, .wiso_product_detail .product .woocommerce-Reviews #review_form_wrapper textarea,
-.single-product .product .woocommerce-Reviews #review_form_wrapper .comment-form .form-submit input#submit:hover, .wiso_product_detail .product .woocommerce-Reviews #review_form_wrapper .comment-form .form-submit input#submit:hover,
-.single-product .product div.related.products .related-subtitle, .wiso_product_detail .product div.related.products .related-subtitle,
+.WISO_product_detail .social-list a,
+.single-product .product .summary .product_title, .WISO_product_detail .product .summary .product_title,
+.single-product .product .summary .cart .group_table td.label, .WISO_product_detail .product .summary .cart .group_table td.label,
+.single-product .product .summary .cart .variations .value ul li label, .WISO_product_detail .product .summary .cart .variations .value ul li label,
+.single-product .product .summary .product_meta .posted_in a:hover, .WISO_product_detail .product .summary .product_meta .posted_in a:hover,
+.single-product .product .summary .product_meta .tagged_as a:hover, .WISO_product_detail .product .summary .product_meta .tagged_as a:hover,
+.single-product div.product .woocommerce-tabs ul.tabs.wc-tabs li.active a, .WISO_product_detail div.product .woocommerce-tabs ul.tabs.wc-tabs li.active a,
+.single-product div.product .woocommerce-tabs .woocommerce-Tabs-panel h2, .WISO_product_detail div.product .woocommerce-tabs .woocommerce-Tabs-panel h2,
+.single-product .product #reviews #comments .commentlist .comment .comment-text .meta, .WISO_product_detail .product #reviews #comments .commentlist .comment .comment-text .meta,
+.single-product .product #reviews #comments .commentlist .comment .comment-text .description, .WISO_product_detail .product #reviews #comments .commentlist .comment .comment-text .description,
+.single-product .product .woocommerce-Reviews #review_form_wrapper .comment-reply-title, .WISO_product_detail .product .woocommerce-Reviews #review_form_wrapper .comment-reply-title,
+.single-product .product .woocommerce-Reviews #review_form_wrapper .comment-form-rating label, .WISO_product_detail .product .woocommerce-Reviews #review_form_wrapper .comment-form-rating label,
+.single-product .product .woocommerce-Reviews #review_form_wrapper input, .WISO_product_detail .product .woocommerce-Reviews #review_form_wrapper input, .single-product .product .woocommerce-Reviews #review_form_wrapper textarea, .WISO_product_detail .product .woocommerce-Reviews #review_form_wrapper textarea,
+.single-product .product .woocommerce-Reviews #review_form_wrapper .comment-form .form-submit input#submit:hover, .WISO_product_detail .product .woocommerce-Reviews #review_form_wrapper .comment-form .form-submit input#submit:hover,
+.single-product .product div.related.products .related-subtitle, .WISO_product_detail .product div.related.products .related-subtitle,
 .woocommerce ul.products li.product .category-product a:hover,
-.woocommerce ul.products li.product .wiso-prod-list-image .wiso-link,
+.woocommerce ul.products li.product .WISO-prod-list-image .WISO-link,
 .woocommerce ul.products li.product h3,
-.wiso-woocommerce-pagination .nav-links > div.nav-previous a,
-.wiso-woocommerce-pagination .nav-links > div.nav-previous:hover:before,
-.wiso-woocommerce-pagination .nav-links > div.nav-next a,
-.wiso-woocommerce-pagination .nav-links > div.nav-next:hover:after,
-.wiso_cart.shop_table .heading li,
-.wiso_cart.shop_table ul .cart_item ul .product-name a,
-.wiso_cart.shop_table ul .cart_item ul .product-name .variation dt,
+.WISO-woocommerce-pagination .nav-links > div.nav-previous a,
+.WISO-woocommerce-pagination .nav-links > div.nav-previous:hover:before,
+.WISO-woocommerce-pagination .nav-links > div.nav-next a,
+.WISO-woocommerce-pagination .nav-links > div.nav-next:hover:after,
+.WISO_cart.shop_table .heading li,
+.WISO_cart.shop_table ul .cart_item ul .product-name a,
+.WISO_cart.shop_table ul .cart_item ul .product-name .variation dt,
 #ship-to-different-address label,
 .woocommerce form .form-row select,
-.wiso-cart-collaterals .cart_totals h2,
-.wiso-cart-collaterals .cart_totals .shop_table ul li,
-.wiso-cart-collaterals .cart_totals .shop_table ul li span,
-.wiso_cart.shop_table .complement-cart .coupon .input-text, .woocommerce form .form-row select, .woocommerce form .form-row input,
-.wiso_cart.shop_table .complement-cart .coupon .input-text.button:hover, .woocommerce form .form-row select.button:hover, .woocommerce form .form-row input.button:hover,
+.WISO-cart-collaterals .cart_totals h2,
+.WISO-cart-collaterals .cart_totals .shop_table ul li,
+.WISO-cart-collaterals .cart_totals .shop_table ul li span,
+.WISO_cart.shop_table .complement-cart .coupon .input-text, .woocommerce form .form-row select, .woocommerce form .form-row input,
+.WISO_cart.shop_table .complement-cart .coupon .input-text.button:hover, .woocommerce form .form-row select.button:hover, .woocommerce form .form-row input.button:hover,
 .woocommerce form.checkout_coupon .form-row input.input-text,
 .woocommerce form.checkout h3,
 .woocommerce form.login .form-row label, .woocommerce form.checkout .form-row label, .woocommerce form.edit-account .form-row label, .woocommerce form.lost_reset_password .form-row label,
@@ -3606,18 +3606,18 @@ dt,
 .woocommerce ul.products li.product a h2,
 .woocommerce ul.products li.product span.on-new,
 .sidebar-item .star-rating span,
-.wiso-best-seller-widget .swiper-button-prev:hover, .wiso-best-seller-widget .swiper-button-next:hover,
-.wiso-best-seller-widget .seller-text a,
+.WISO-best-seller-widget .swiper-button-prev:hover, .WISO-best-seller-widget .swiper-button-next:hover,
+.WISO-best-seller-widget .seller-text a,
 .woocommerce-MyAccount-navigation .woocommerce-MyAccount-navigation-link a:hover,
 .woocommerce-MyAccount-navigation .woocommerce-MyAccount-navigation-link.is-active a,
 .woocommerce-MyAccount-content a:hover,
 .woocommerce-MyAccount-content legend,
-.wiso-shop-banner .wiso-shop-title,
+.WISO-shop-banner .WISO-shop-title,
 .woocommerce form.login .form-row input[type="submit"]:focus:hover, .woocommerce form.login .form-row input[type="submit"]:visited:hover, .woocommerce form.login .form-row input[type="submit"]:active:hover, .woocommerce form.login .form-row input[type="submit"]:hover,
 .woocommerce-account .woocommerce-MyAccount-navigation ul li.is-active a:hover,
 .woocommerce .woocommerce-message a.button:hover, .woocommerce .woocommerce-info a.button:hover, .woocommerce .woocommerce-error a.button:hover,
-.SocialLinkWidget .wiso-widget-social-title,
-.SocialLinkWidget .wiso-widget-social-link a,
+.SocialLinkWidget .WISO-widget-social-title,
+.SocialLinkWidget .WISO-widget-social-link a,
 .simple_gallery h1, .simple_gallery h2, .simple_gallery h3, .simple_gallery h4, .simple_gallery h5, .simple_gallery h6,
 .simple_gallery .flex-prev, .simple_gallery .flex-next,
 .simple_gallery .flex-prev:hover i, .simple_gallery .flex-next:hover i,
@@ -3739,9 +3739,9 @@ dt,
 .woocommerce form.checkout_coupon .form-row input.input-text:-moz-placeholder,
 .woocommerce form.checkout_coupon .form-row input.input-text:-ms-input-placeholder,
 .woocommerce form.checkout_coupon .form-row input.input-text:-moz-placeholder,
-.wiso_cart.shop_table .complement-cart .coupon .input-text:-moz-placeholder, .woocommerce form .form-row select:-moz-placeholder, .woocommerce form .form-row input:-moz-placeholder,
-.wiso_cart.shop_table .complement-cart .coupon .input-text:-ms-input-placeholder, .woocommerce form .form-row select:-ms-input-placeholder, .woocommerce form .form-row input:-ms-input-placeholder,
-.wiso_cart.shop_table .complement-cart .coupon .input-text:-moz-placeholder, .woocommerce form .form-row select:-moz-placeholder, .woocommerce form .form-row input:-moz-placeholder {
+.WISO_cart.shop_table .complement-cart .coupon .input-text:-moz-placeholder, .woocommerce form .form-row select:-moz-placeholder, .woocommerce form .form-row input:-moz-placeholder,
+.WISO_cart.shop_table .complement-cart .coupon .input-text:-ms-input-placeholder, .woocommerce form .form-row select:-ms-input-placeholder, .woocommerce form .form-row input:-ms-input-placeholder,
+.WISO_cart.shop_table .complement-cart .coupon .input-text:-moz-placeholder, .woocommerce form .form-row select:-moz-placeholder, .woocommerce form .form-row input:-moz-placeholder {
     color: #222;
 }
 
@@ -3791,9 +3791,9 @@ input[type=reset],
 input[type=submit],
 .woocommerce div.product form.cart .button,
 .woocommerce-page.woocommerce-cart .woocommerce input.button, .woocommerce-page.woocommerce-checkout .woocommerce input.button, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce a.button.alt, .woocommerce button.button, .woocommerce input.button,
-.single-product .product .summary .cart .variations .value ul li input:checked + label:before, .wiso_product_detail .product .summary .cart .variations .value ul li input:checked + label:before,
-.woocommerce ul.products li.product .wiso_product_list_name .count,
-.single-product .product .woocommerce-Reviews #review_form_wrapper .comment-form .form-submit input#submit, .wiso_product_detail .product .woocommerce-Reviews #review_form_wrapper .comment-form .form-submit input#submit,
+.single-product .product .summary .cart .variations .value ul li input:checked + label:before, .WISO_product_detail .product .summary .cart .variations .value ul li input:checked + label:before,
+.woocommerce ul.products li.product .WISO_product_list_name .count,
+.single-product .product .woocommerce-Reviews #review_form_wrapper .comment-form .form-submit input#submit, .WISO_product_detail .product .woocommerce-Reviews #review_form_wrapper .comment-form .form-submit input#submit,
 .woocommerce form.login .form-row input[type="submit"]:focus, .woocommerce form.login .form-row input[type="submit"]:visited, .woocommerce form.login .form-row input[type="submit"]:active, .woocommerce form.login .form-row input[type="submit"],
 .woocommerce form.login .form-row input[type="checkbox"]:checked + label.checkbox:before, .woocommerce form.checkout .form-row input[type="checkbox"]:checked + label.checkbox:before, .woocommerce .woocommerce-shipping-fields input[type="checkbox"]:checked + label.checkbox:before,
 .woocommerce .widget_price_filter .ui-slider .ui-slider-range, .woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
@@ -3876,7 +3876,7 @@ body table.booked-calendar td.today .date span,
 .woocommerce a.button, .woocommerce a.button.alt,
 .woocommerce button.button, .woocommerce input.button,
 .single-product .product .woocommerce-Reviews #review_form_wrapper .comment-form .form-submit input#submit,
-.wiso_product_detail .product .woocommerce-Reviews #review_form_wrapper .comment-form .form-submit input#submit,
+.WISO_product_detail .product .woocommerce-Reviews #review_form_wrapper .comment-form .form-submit input#submit,
 .woocommerce form.login .form-row input[type="submit"]:focus,
 .woocommerce form.login .form-row input[type="submit"]:visited,
 .woocommerce form.login .form-row input[type="submit"]:active,
@@ -3889,11 +3889,11 @@ body table.booked-calendar td.today .date span,
 .woocommerce form .form-row.woocommerce-validated input.input-text,
 .woocommerce form .form-row.woocommerce-validated select,
 .single-product .product .woocommerce-Reviews #review_form_wrapper input:focus,
-.wiso_product_detail .product .woocommerce-Reviews #review_form_wrapper input:focus,
+.WISO_product_detail .product .woocommerce-Reviews #review_form_wrapper input:focus,
 .single-product .product .woocommerce-Reviews #review_form_wrapper textarea:focus,
-.wiso_product_detail .product .woocommerce-Reviews #review_form_wrapper textarea:focus,
+.WISO_product_detail .product .woocommerce-Reviews #review_form_wrapper textarea:focus,
 .single-product div.product .woocommerce-tabs ul.tabs.wc-tabs li.active a,
-.wiso_product_detail div.product .woocommerce-tabs ul.tabs.wc-tabs li.active a,
+.WISO_product_detail div.product .woocommerce-tabs ul.tabs.wc-tabs li.active a,
 .woocommerce-account .woocommerce-MyAccount-navigation ul li a:hover,
 .contacts-info-wrap .form input[type="submit"],
 .video.only-button .video-content .play,
@@ -3912,7 +3912,7 @@ body table.booked-calendar td.today .date span,
 
 .error404 .main-wrapper.unit .vertical-align a,
 .select2-drop-active,
-.wiso-sorting-products-widget .woocommerce-ordering select,
+.WISO-sorting-products-widget .woocommerce-ordering select,
 .events-single-content.protected-page input[type="password"]:focus,
 .single-portfolio .protected-page input[type="password"]:focus,
 .spinner-preloader-wrap .cssload-container .cssload-moon {
@@ -3920,7 +3920,7 @@ body table.booked-calendar td.today .date span,
 }
 
 .post-nav a span,
-.wiso_cart.shop_table ul .cart_item ul .product-remove .remove:hover,
+.WISO_cart.shop_table ul .cart_item ul .product-remove .remove:hover,
 .woocommerce .sidebar-item a.remove,
 .widget_product_categories .product-categories a:hover {
     color: #222 !important;
@@ -3933,7 +3933,7 @@ body table.booked-calendar td.today:hover .date span {
 .woocommerce div.product form.cart .button,
 .woocommerce-page.woocommerce-cart .woocommerce input.button, .woocommerce-page.woocommerce-checkout .woocommerce input.button, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce a.button.alt, .woocommerce button.button, .woocommerce input.button,
 .woocommerce-page.woocommerce-cart .woocommerce input.button:hover, .woocommerce-page.woocommerce-checkout .woocommerce input.button:hover, .woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce a.button.alt:hover, .woocommerce button.button:hover, .woocommerce input.button:hover,
-.single-product .product .woocommerce-Reviews #review_form_wrapper .comment-form .form-submit input#submit, .wiso_product_detail .product .woocommerce-Reviews #review_form_wrapper .comment-form .form-submit input#submit,
+.single-product .product .woocommerce-Reviews #review_form_wrapper .comment-form .form-submit input#submit, .WISO_product_detail .product .woocommerce-Reviews #review_form_wrapper .comment-form .form-submit input#submit,
 .woocommerce form.login .form-row input[type="submit"]:focus, .woocommerce form.login .form-row input[type="submit"]:visited, .woocommerce form.login .form-row input[type="submit"]:active, .woocommerce form.login .form-row input[type="submit"],
 .woocommerce form.login .form-row input[type="submit"]:focus, .woocommerce form.login .form-row input[type="submit"]:visited, .woocommerce form.login .form-row input[type="submit"]:active, .woocommerce form.login .form-row input[type="submit"],
 .woocommerce-account .woocommerce-MyAccount-navigation ul li a,
@@ -4024,12 +4024,12 @@ mark, ins,
 .protected-page form input[type="submit"],
 .portfolio .item-overlay > h5,
 .woocommerce div.product form.cart .button,
-.woocommerce ul.products li.product .wiso-prod-list-image .wiso-add-to-cart a,
+.woocommerce ul.products li.product .WISO-prod-list-image .WISO-add-to-cart a,
 .input_shop_wrapper:hover,
-.woocommerce ul.products li.product .wiso_product_list_name .count,
+.woocommerce ul.products li.product .WISO_product_list_name .count,
 .single-product .product .woocommerce-Reviews #review_form_wrapper .comment-form .form-submit input#submit,
-.wiso_product_detail .product .woocommerce-Reviews #review_form_wrapper .comment-form .form-submit input#submit,
-.wiso_cart.shop_table .complement-cart .coupon .input-text.button,
+.WISO_product_detail .product .woocommerce-Reviews #review_form_wrapper .comment-form .form-submit input#submit,
+.WISO_cart.shop_table .complement-cart .coupon .input-text.button,
 .woocommerce form .form-row select.button, .woocommerce form .form-row input.button,
 .woocommerce form.login .form-row input[type="submit"]:focus,
 .woocommerce form.login .form-row input[type="submit"]:visited,
@@ -4114,7 +4114,7 @@ mark, ins,
 .full_screen_slider .slider-click,
 .full_screen_slider .slider-click.left .arrow::before,
 .full_screen_slider .slider-click.right .arrow::before,
-.wiso-sound-btn:before,
+.WISO-sound-btn:before,
 .glitch-wrapper.style-1 .title,
 .glitch-wrapper.style-1 .text,
 .glitch-wrapper.style-2 .title,
@@ -4127,7 +4127,7 @@ mark, ins,
 .slide-nav__text:hover, .slide-nav__text:focus,
 .kenburns-wrap .but-eye-wrap i,
 .kenburns-wrap .caption,
-.kenburns-wrap .wiso-sound-btn:before,
+.kenburns-wrap .WISO-sound-btn:before,
 .kenburns-play::before,
 .page-wrapper a span:hover,
 .physics-banner .title,
@@ -4188,13 +4188,13 @@ body,
 .animsition-loading,
 .spinner-preloader-wrap .cssload-container .cssload-item,
 .error404 .hero-inner .search input:not([type="submit"]),
-.woocommerce .wiso_images span.onsale, .woocommerce ul.products li.product .wiso-prod-list-image .onsale,
-.woocommerce ul.products li.product .wiso-prod-list-image .wiso-add-to-cart a,
+.woocommerce .WISO_images span.onsale, .woocommerce ul.products li.product .WISO-prod-list-image .onsale,
+.woocommerce ul.products li.product .WISO-prod-list-image .WISO-add-to-cart a,
 .product-gallery-wrap .on-new,
-.woocommerce ul.products li.product .wiso-prod-list-image:after,
+.woocommerce ul.products li.product .WISO-prod-list-image:after,
 .woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
 .woocommerce ul.products li.product span.on-new,
-.woocommerce ul.products li.product .wiso-prod-list-image .wiso-add-to-cart a:hover,
+.woocommerce ul.products li.product .WISO-prod-list-image .WISO-add-to-cart a:hover,
 .simple_gallery .flex-prev:hover, .simple_gallery .flex-next:hover,
 .parallax-window .content-parallax,
 .main-header-testimonial.classic .swiper-pagination span,
@@ -4345,14 +4345,14 @@ body,
 /* ======= FOOTER TEXT COLOR ======= */
 
 #footer.simple .sidebar-item[class*='widget_'] select,
-#footer .wiso-widget-about .about_content,
+#footer .WISO-widget-about .about_content,
 #footer .sidebar-item.widget_nav_menu h5,
 #footer .menu li a,
 #footer .sidebar-item .item-wrap h3,
 #footer .footer-menu-wrap ul li a,
 #footer.simple .sidebar-item .item-wrap h5,
 #footer.simple .menu li a,
-#footer.simple .wiso-widget-subscribe input:not([type="submit"]),
+#footer.simple .WISO-widget-subscribe input:not([type="submit"]),
 #footer.simple .copyright a,
 #footer.simple .sidebar-item #wp-calendar caption,
 #footer.simple .widget_calendar th,
@@ -4370,7 +4370,7 @@ body,
 {
     color: #222;
 }
-#footer.simple .wiso-widget-subscribe input[type="submit"] {
+#footer.simple .WISO-widget-subscribe input[type="submit"] {
     background-color: #222;
 }
 
@@ -5084,7 +5084,7 @@ div.wpcf7 .ajax-loader {
     .split .aside-menu.static #topmenu .f-right .copy a,
     .split .aside-menu.static #topmenu .menu li a,
     .split .aside-menu.static .logo span,
-    .split .aside-menu.static .mini-cart-wrapper .wiso-shop-icon .cart-contents-count,
+    .split .aside-menu.static .mini-cart-wrapper .WISO-shop-icon .cart-contents-count,
     .split .aside-menu.static #topmenu .f-right .copy,
     .split .aside-menu.static .mini-cart-wrapper a::before
     {
@@ -5548,7 +5548,7 @@ div.wpcf7 .ajax-loader {
     .creative-grid-2-item {
         height: 240px;
     }
-    .kenburns-wrap_two.kenburns-wrap .wiso-sound-btn{
+    .kenburns-wrap_two.kenburns-wrap .WISO-sound-btn{
         bottom: 50px!important;
     }
     .split-conte {

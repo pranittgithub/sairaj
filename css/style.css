@@ -3565,7 +3565,7 @@ font-family: "EB Garamond", serif;font-size: 35px;
   opacity: 1; }
 
 .grid-transform_col-three .grid-transform-item:nth-child(1) .grid-transform-img {
-  background-image: url(../images/benjamin-combs-27619-unsplash.jpg); }
+  background-image: url(../images/crea1.jpg); }
 .grid-transform_col-three .grid-transform-item:nth-child(2) .grid-transform-img {
   background-image: url(../images/kevin-laminto-607963-unsplash.jpg); }
 .grid-transform_col-three .grid-transform-item:nth-child(3) .grid-transform-img {
@@ -3782,27 +3782,27 @@ font-family: "EB Garamond", serif;font-size: 35px;
   .praia-portfolio-items .praia-portfolio-item:nth-child(1) {
     transition-delay: 350ms; }
     .praia-portfolio-items .praia-portfolio-item:nth-child(1) .praia-portfolio-img {
-      background-image: url(../images/yann-bervas-617586-unsplash.jpg); }
+    background-image: url(../images/pro1.jpg); }
   .praia-portfolio-items .praia-portfolio-item:nth-child(2) {
     transition-delay: 700ms; }
     .praia-portfolio-items .praia-portfolio-item:nth-child(2) .praia-portfolio-img {
-      background-image: url(../images/verne-ho-23723-unsplash.jpg); }
+    background-image: url(../images/pro2.jpg); }
   .praia-portfolio-items .praia-portfolio-item:nth-child(3) {
     transition-delay: 1050ms; }
     .praia-portfolio-items .praia-portfolio-item:nth-child(3) .praia-portfolio-img {
-      background-image: url(../images/tyler-nix-594383-unsplash.jpg); }
+    background-image: url(../images/pro3.jpg); }
   .praia-portfolio-items .praia-portfolio-item:nth-child(4) {
     transition-delay: 1400ms; }
     .praia-portfolio-items .praia-portfolio-item:nth-child(4) .praia-portfolio-img {
-      background-image: url(../images/averie-woodard-111834-unsplash.jpg); }
+    background-image: url(../images/pro4.jpg); }
   .praia-portfolio-items .praia-portfolio-item:nth-child(5) {
     transition-delay: 1750ms; }
     .praia-portfolio-items .praia-portfolio-item:nth-child(5) .praia-portfolio-img {
-      background-image: url(../images/christopher-harris-55545-unsplash.jpg); }
+    background-image: url(../images/pro5.jpg); }
   .praia-portfolio-items .praia-portfolio-item:nth-child(6) {
     transition-delay: 2100ms; }
     .praia-portfolio-items .praia-portfolio-item:nth-child(6) .praia-portfolio-img {
-      background-image: url(../images/benjamin-davies-599280-unsplash-e1527079634704.jpg); }
+    background-image: url(../images/pro6.jpg); }
 
 .praia-portfolio-items.praia-portfolio_animation .praia-portfolio-item {
   opacity: 1; }

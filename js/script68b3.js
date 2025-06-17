@@ -829,7 +829,7 @@
             type: "POST",
             url: get.ajaxurl,
             data: ({
-                action: 'wiso_like_post',
+                action: 'WISO_like_post',
                 post_id: post_id
             }),
             success: function (msg) {
@@ -1142,7 +1142,7 @@
     });
 
     /*product slider*/
-    if ($('.wiso_images').length) {
+    if ($('.WISO_images').length) {
         $('.product-gallery-wrap').each(function () {
             $(this).slick({
                 dots: false,
@@ -1387,16 +1387,16 @@
     }
 
     /* Copyright */
-    if ($('.wiso_copyright_overlay').length) {
+    if ($('.WISO_copyright_overlay').length) {
         $(document).on('contextmenu',function(event){
-            if($('.wiso_copyright_overlay').hasClass('copy')){
+            if($('.WISO_copyright_overlay').hasClass('copy')){
                 event.preventDefault();
             }else if(event.target.tagName != 'A'){
                 event.preventDefault();
             }
-            $('.wiso_copyright_overlay').addClass('active');
+            $('.WISO_copyright_overlay').addClass('active');
         }).on('click', function(){
-            $('.wiso_copyright_overlay').removeClass('active').removeAttr('style');
+            $('.WISO_copyright_overlay').removeClass('active').removeAttr('style');
         });
     }
 
