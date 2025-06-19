@@ -116,7 +116,7 @@
   .post-little-banner .page-title-blog {
     margin-bottom: 0;
     color: #222222;
-   font-family: "EB Garamond", serif;    font-size: 50px;
+   font-family: "Cormorant Garamond";    font-size: 50px;
     font-weight: 600;
     letter-spacing: 2.5px;
     text-align: center;
@@ -134,7 +134,7 @@
   .post-little-banner.empty-post-list h3 {
     margin-bottom: 40px;
     color: #222222;
-   font-family: "EB Garamond", serif;    font-size: 40px;
+   font-family: "Cormorant Garamond";    font-size: 40px;
     font-weight: 600;
     letter-spacing: 1px; }
   .post-little-banner.empty-post-list form div {
@@ -176,7 +176,7 @@
     border: 1px solid #222;
     font-weight: 400;
     color: #999;
-    font-family: "EB Garamond", serif;      font-size: 15px;
+    font-family: "Cormorant Garamond";      font-size: 15px;
     line-height: 1.6;
     letter-spacing: .2px;
     -webkit-transition: all 350ms ease;
@@ -317,7 +317,7 @@ body.search .post.center-style .info-wrap {
       .post.center-style .category a {
         text-decoration: none;
         color: #999;
-        font-family: "EB Garamond", serif;          font-size: 13px;
+        font-family: "Cormorant Garamond";          font-size: 13px;
         font-weight: 600;
         letter-spacing: 2px;
         line-height: 2; }
@@ -337,7 +337,7 @@ body.search .post.center-style .info-wrap {
         color: #999999; }
       .post.center-style .date a {
         color: #999999;
-        font-family: "EB Garamond", serif;          font-size: 12px;
+        font-family: "Cormorant Garamond";          font-size: 12px;
         font-weight: 600;
         line-height: 2;
         letter-spacing: 2px;
@@ -351,7 +351,7 @@ body.search .post.center-style .info-wrap {
     .post.center-style .title {
       margin: 20px 0 40px;
       color: #222222;
-     font-family: "EB Garamond", serif;      font-size: 40px;
+     font-family: "Cormorant Garamond";      font-size: 40px;
       font-weight: 600;
       letter-spacing: 1.2px;
       line-height: normal;
@@ -398,7 +398,7 @@ body.search .post.center-style .info-wrap {
         .post.center-style.format-quote .info-wrap blockquote, .post.center-style.format-post-text .info-wrap blockquote {
           margin: 55px 0 0;
           color: #222222;
-         font-family: "EB Garamond", serif;          font-size: 40px;
+         font-family: "Cormorant Garamond";          font-size: 40px;
           font-weight: 600;
           font-style: italic;
           line-height: 1.67;
@@ -496,7 +496,7 @@ body.search .post.center-style .info-wrap {
         font-weight: 800; }
         .post.center-style.format-link .link-wrap a, .post.center-style.format-post-link .link-wrap a {
           color: #ffffff;
-         font-family: "EB Garamond", serif;          font-size: 30px;
+         font-family: "Cormorant Garamond";          font-size: 30px;
           font-weight: 600;
           line-height: 1.8;
           letter-spacing: 1.2px;
@@ -546,7 +546,7 @@ body.search .post.center-style .info-wrap {
         display: block;
         margin: 20px 0;
         color: #222222;
-       font-family: "EB Garamond", serif;        font-size: 30px;
+       font-family: "Cormorant Garamond";        font-size: 30px;
         font-weight: 600;
         letter-spacing: 1.2px;
         line-height: normal;
@@ -557,7 +557,7 @@ body.search .post.center-style .info-wrap {
         margin-bottom: 40px; }
         .post.metro-style .info-wrap .text p {
           color: #999;
-          font-family: "EB Garamond", serif;            font-size: 15px;
+          font-family: "Cormorant Garamond";            font-size: 15px;
           line-height: 1.6; }
       .post.metro-style .info-wrap .counters {
         display: -webkit-box;
@@ -645,7 +645,7 @@ body.search .post.center-style .info-wrap {
         padding: 30px 15px 15px; }
       .post.metro-style.format-quote .info-wrap blockquote, .post.metro-style.format-post-text .info-wrap blockquote {
         color: #222222;
-       font-family: "EB Garamond", serif;        font-size: 30px;
+       font-family: "Cormorant Garamond";        font-size: 30px;
         font-weight: 600;
         font-style: italic;
         line-height: 1.58;
@@ -1114,7 +1114,7 @@ body.search .post.center-style .info-wrap {
 .post-content h5 {
   font-size: 24px;
   line-height: 30px;
-  font-family: "EB Garamond", serif;    color: #ffffff;
+  font-family: "Cormorant Garamond";    color: #ffffff;
   display: inline-block;
   font-weight: 400;
   text-align: center;
@@ -1282,7 +1282,7 @@ body.search .post.center-style .info-wrap {
   -ms-word-wrap: break-word;
   word-wrap: break-word;
   font-size: 50px;
- font-family: "EB Garamond", serif;  font-weight: 600;
+ font-family: "Cormorant Garamond";  font-weight: 600;
   color: #222;
   line-height: normal;
   max-width: 770px;
@@ -1309,7 +1309,7 @@ body.search .post.center-style .info-wrap {
 .post-paper blockquote p {
   font-size: 24px;
   line-height: 1.5;
- font-family: "EB Garamond", serif;  font-weight: 600;
+ font-family: "Cormorant Garamond";  font-weight: 600;
   color: #222222;
   text-align: center !important;
   font-style: normal;
@@ -1321,7 +1321,7 @@ body.search .post.center-style .info-wrap {
     margin-bottom: 20px;
     color: #999;
     text-align: center;
-   font-family: "EB Garamond", serif;      font-size: 40px;
+   font-family: "Cormorant Garamond";      font-size: 40px;
     content: "\f347"; }
 
 .single-portfolio .dgwt-jg-gallery {
@@ -1496,7 +1496,7 @@ body.search .post.center-style .info-wrap {
   .main-wrapper .col-md-3 .sidebar-item h5 {
     border-bottom: 1px solid #eee;
     display: block;
-   font-family: "EB Garamond", serif;    font-size: 18px;
+   font-family: "Cormorant Garamond";    font-size: 18px;
     font-weight: 600;
     text-align: left;
     margin-bottom: 10px; }
@@ -1532,7 +1532,7 @@ body.search .post.center-style .info-wrap {
   .main-wrapper .col-md-4 .sidebar-item.widget_tag_cloud a,
   .main-wrapper .col-md-3 .sidebar-item.widget_tag_cloud a {
     color: #fff;
-    font-family: "EB Garamond", serif;      font-size: 12px !important;
+    font-family: "Cormorant Garamond";      font-size: 12px !important;
     line-height: 1.6;
     letter-spacing: 1px;
     margin-right: 10px;
@@ -1563,7 +1563,7 @@ body.search .post.center-style .info-wrap {
   .main-wrapper .col-md-3 .sidebar-item table caption {
     color: #222222;
     opacity: 1;
-   font-family: "EB Garamond", serif;    font-weight: 600;
+   font-family: "Cormorant Garamond";    font-weight: 600;
     margin-bottom: 5px; }
   .main-wrapper .col-md-4 .sidebar-item .WISO-widget-about .img-wrap,
   .main-wrapper .col-md-3 .sidebar-item .WISO-widget-about .img-wrap {
@@ -1762,7 +1762,7 @@ body.search .post.center-style .info-wrap {
   font-size: 30px;
   line-height: 1.4;
   letter-spacing: 1.2px;
- font-family: "EB Garamond", serif;  font-weight: 600;
+ font-family: "Cormorant Garamond";  font-weight: 600;
   margin: 0 auto 25px;
   color: #222222; }
 
@@ -1790,7 +1790,7 @@ body.search .post.center-style .info-wrap {
 .sm-wrap-post .content .title {
   font-size: 20px;
   line-height: 1.4;
- font-family: "EB Garamond", serif;  letter-spacing: 1.2px;
+ font-family: "Cormorant Garamond";  letter-spacing: 1.2px;
   display: inline-block;
   color: #222222;
   font-weight: 600;
@@ -1802,7 +1802,7 @@ body.search .post.center-style .info-wrap {
 
 .sm-wrap-post .content .excerpt {
   font-size: 15px;
-  font-family: "EB Garamond", serif;    color: #999;
+  font-family: "Cormorant Garamond";    color: #999;
   line-height: 1.6;
   letter-spacing: 1px;
   margin-bottom: 11px; }
@@ -1815,7 +1815,7 @@ body.search .post.center-style .info-wrap {
 .sm-wrap-post .content .post-date .date {
   font-size: 12px;
   line-height: 2;
-  font-family: "EB Garamond", serif;    letter-spacing: 2px;
+  font-family: "Cormorant Garamond";    letter-spacing: 2px;
   font-weight: 400;
   color: #999;
   margin: 0;
@@ -1867,7 +1867,7 @@ body.search .post.center-style .info-wrap {
   position: relative;
   text-align: center;
   clear: both;
-  font-family: "EB Garamond", serif;    padding: 20px 0 50px;
+  font-family: "Cormorant Garamond";    padding: 20px 0 50px;
   z-index: 5; }
 
 .pages,
@@ -1986,7 +1986,7 @@ body.search .post.center-style .info-wrap {
     color: #222; }
   .single-pagination > div.pag-prev::before {
     margin-right: 15px;
-   font-family: "EB Garamond", serif;      font-size: 24px;
+   font-family: "Cormorant Garamond";      font-size: 24px;
     color: #dddddd;
     content: "\f3d5";
     -webkit-transition: all 0.3s ease;
@@ -2001,7 +2001,7 @@ body.search .post.center-style .info-wrap {
     color: #222; }
   .single-pagination > div.pag-next::after {
     margin-left: 15px;
-   font-family: "EB Garamond", serif;      font-size: 24px;
+   font-family: "Cormorant Garamond";      font-size: 24px;
     color: #dddddd;
     content: "\f3d6";
     -webkit-transition: all 0.3s ease;
@@ -2019,7 +2019,7 @@ body.search .post.center-style .info-wrap {
 
 .single-pagination > div a.content {
   font-size: 18px;
- font-family: "EB Garamond", serif;  font-weight: 600;
+ font-family: "Cormorant Garamond";  font-weight: 600;
   color: #222;
   line-height: normal;
   letter-spacing: 1.2px;
@@ -2130,7 +2130,7 @@ body.search .post.center-style .info-wrap {
   display: inline-block;
   margin-right: 15px;
   font-size: 12px;
-  font-family: "EB Garamond", serif;    font-weight: 600;
+  font-family: "Cormorant Garamond";    font-weight: 600;
   color: #999;
   line-height: 2;
   letter-spacing: 1px; }
@@ -2205,7 +2205,7 @@ body.search .post.center-style .info-wrap {
     border: 1px solid #eee;
     text-decoration: none;
     color: #999999;
-    font-family: "EB Garamond", serif;      font-size: 12px;
+    font-family: "Cormorant Garamond";      font-size: 12px;
     font-weight: 400;
     line-height: 1.6;
     letter-spacing: 2px;
@@ -2265,7 +2265,7 @@ body.search .post.center-style .info-wrap {
     cursor: pointer; }
     .post-info .likes-wrap .post__likes::before {
       color: #222;
-     font-family: "EB Garamond", serif;        font-size: 20px;
+     font-family: "Cormorant Garamond";        font-size: 20px;
       margin-right: 10px;
       content: "\f442"; }
     .post-info .likes-wrap .post__likes--disable {
@@ -2340,7 +2340,7 @@ body.search .post.center-style .info-wrap {
     line-height: normal;
     letter-spacing: .2px;
     font-weight: 800;
-    font-family: "EB Garamond", serif;      text-decoration: none;
+    font-family: "Cormorant Garamond";      text-decoration: none;
     color: #222222;
     text-transform: capitalize; }
   .user-info-wrap .post-author__nicename {
@@ -2349,7 +2349,7 @@ body.search .post.center-style .info-wrap {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-   font-family: "EB Garamond", serif;    font-size: 18px;
+   font-family: "Cormorant Garamond";    font-size: 18px;
     font-weight: 600;
     color: #222;
     letter-spacing: 2px;
@@ -2426,7 +2426,7 @@ table th {
 
 .post-info span a,
 .post-info span {
-  font-family: "EB Garamond", serif;    font-size: 14px;
+  font-family: "Cormorant Garamond";    font-size: 14px;
   line-height: 20px;
   font-weight: 400;
   letter-spacing: .7px;
@@ -2437,7 +2437,7 @@ table th {
   display: block; }
 
 .post-info span a {
-  font-family: "EB Garamond", serif;    font-size: 12px;
+  font-family: "Cormorant Garamond";    font-size: 12px;
   letter-spacing: 1.2px;
   color: white;
   background-color: #222222;
@@ -2659,7 +2659,7 @@ table th {
 .toggle-title {
   position: relative;
   display: inline-block;
-  font-family: "EB Garamond", serif;    letter-spacing: .1em;
+  font-family: "Cormorant Garamond";    letter-spacing: .1em;
   cursor: pointer;
   font-size: 15px;
   -webkit-font-smoothing: antialiased; }
@@ -2734,7 +2734,7 @@ table th {
   font-weight: 600;
   line-height: normal;
   letter-spacing: 1.2px;
- font-family: "EB Garamond", serif;  margin-bottom: 30px;
+ font-family: "Cormorant Garamond";  margin-bottom: 30px;
   color: #222222; }
 
 .comments .comment-reply-title a {
@@ -2758,7 +2758,7 @@ table th {
   order: 2;
   width: 100%;
   font-size: 15px;
-  font-family: "EB Garamond", serif;    color: #999;
+  font-family: "Cormorant Garamond";    color: #999;
   overflow: hidden;
   line-height: 1.6;
   margin-top: 6px;
@@ -2781,7 +2781,7 @@ table th {
   line-height: normal;
   letter-spacing: 1px;
   font-weight: 600;
- font-family: "EB Garamond", serif;  text-decoration: none;
+ font-family: "Cormorant Garamond";  text-decoration: none;
   color: #222222; }
 
 .comments table a {
@@ -2801,7 +2801,7 @@ table th {
   margin-bottom: 10px;
   font-size: 12px;
   line-height: normal;
-  font-family: "EB Garamond", serif;    font-weight: 400;
+  font-family: "Cormorant Garamond";    font-weight: 400;
   color: #999;
   letter-spacing: 1px;
   -webkit-font-smoothing: antialiased; }
@@ -2812,7 +2812,7 @@ table th {
   font-size: 30px;
   font-weight: 400;
   line-height: normal;
- font-family: "EB Garamond", serif;  color: #222222; }
+ font-family: "Cormorant Garamond";  color: #222222; }
 
 .unit .comments > li.comment {
   margin-left: 0; }
@@ -2851,7 +2851,7 @@ table th {
 .comments-form h3 {
   display: block;
   font-size: 16px;
-  font-family: "EB Garamond", serif;    color: #222222;
+  font-family: "Cormorant Garamond";    color: #222222;
   font-weight: bold;
   letter-spacing: 1.25px;
   margin-bottom: 20px; }
@@ -2864,7 +2864,7 @@ table th {
   border: 0;
   border-bottom: 1px solid #eeeeee;
   padding: 10px 0;
-  font-family: "EB Garamond", serif;    font-size: 15px;
+  font-family: "Cormorant Garamond";    font-size: 15px;
   color: #222;
   line-height: 1.6;
   letter-spacing: 1.2px;
@@ -2938,7 +2938,7 @@ table th {
 
 .comment-form label,
 .comments.main label {
-  font-family: "EB Garamond", serif;    color: #222222; }
+  font-family: "Cormorant Garamond";    color: #222222; }
 
 .comment-reply-title + form {
   margin-bottom: 30px; }
@@ -3490,7 +3490,7 @@ table th {
 .unit .post-paper table {
   max-width: calc(100% - 60px); }
   .unit .post-paper table td {
-    font-family: "EB Garamond", serif;      color: #999;
+    font-family: "Cormorant Garamond";      color: #999;
     line-height: 1.3;
     letter-spacing: .2px; }
 .unit .post-details .single-categories a {
@@ -3512,7 +3512,7 @@ table th {
   color: #222222; }
 .unit.main-wrapper .col-md-3 .sidebar-item.widget_archive li,
 .unit.main-wrapper .col-md-3 .sidebar-item .cat-item {
-  font-family: "EB Garamond", serif; }
+  font-family: "Cormorant Garamond"; }
 .unit.main-wrapper .col-md-3 .sidebar-item.widget_tag_cloud a:hover {
   color: #ffffff; }
 .unit .post.metro-style.format-link .info-wrap .category a, .unit .post.metro-style.format-post-link .info-wrap .category a {
@@ -3599,7 +3599,7 @@ table th {
   margin-top: 8px;
   border: 1px solid #999;
   padding: 10px 24px;
-  font-family: "EB Garamond", serif;    font-size: 12px;
+  font-family: "Cormorant Garamond";    font-size: 12px;
   font-weight: 600;
   color: #222;
   line-height: 2;

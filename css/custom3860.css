@@ -185,9 +185,9 @@ footer.zindex {
 .only_logo .logo span {
     vertical-align: middle;
     text-align: left;
-   font-family: "EB Garamond", serif;    font-size: 28px;
+   font-family: "Cormorant Garamond";    font-size: 24px;
     line-height: 1.8;
-    font-weight: 900;
+    font-weight: 500;
     letter-spacing: 2px;
     color: #222222;
     white-space: nowrap;
@@ -279,6 +279,8 @@ footer.zindex {
 }
 
 .top-menu .logo img {
+
+
     max-height: 100px;
 }
 
@@ -449,7 +451,7 @@ footer.zindex {
 }
 
 #topmenu .WISO_mini_cart .product_list_widget .mini_cart_item .mini-cart-data .mini_cart_item_price {
-    font-family: "EB Garamond", serif;      color: #222;
+    font-family: "Cormorant Garamond";      color: #222;
     font-size: 15px;
     font-weight: 600;
 }
@@ -647,7 +649,7 @@ footer.zindex {
 }
 
 #topmenu .WISO_mini_cart .product_list_widget .mini_cart_item .mini-cart-data .mini_cart_item_name {
-   font-family: "EB Garamond", serif;    font-size: 15px;
+   font-family: "Cormorant Garamond";    font-size: 15px;
     line-height: 1.6;
     letter-spacing: 1.2px;
     font-weight: 600;
@@ -657,7 +659,7 @@ footer.zindex {
 }
 
 #topmenu .WISO_mini_cart .product_list_widget .mini_cart_item .mini-cart-data .mini_cart_item_quantity {
-    font-family: "EB Garamond", serif;      font-size: 12px;
+    font-family: "Cormorant Garamond";      font-size: 12px;
     line-height: 20px;
     letter-spacing: 2.88px;
     font-weight: 400;
@@ -671,7 +673,7 @@ footer.zindex {
     line-height: 20px;
     position: relative;
     display: inline-block;
-    font-family: "EB Garamond", serif;      font-weight: bold;
+    font-family: "Cormorant Garamond";      font-weight: bold;
     box-sizing: border-box;
     padding: 18px;
     font-size: 15px;
@@ -732,8 +734,9 @@ figure{
 
 header .logo img {
     max-width: none;
-    max-height: 75px;
+    max-height: 100px;
 }
+
 
 header .logo img.logo-hover {
     display: none;
@@ -940,7 +943,7 @@ header .logo:hover {
     }
 
     .right-menu .logo img {
-        max-height: 75px;
+        max-height: 100px;
         margin: 5px auto;
     }
     .full-width-menu .right-menu .logo img {
@@ -1305,7 +1308,7 @@ header .logo:hover {
     }
 
     .main-wrapper header .logo img {
-        max-height: 75px;
+        max-height: 100px;
     }
 
     header {
@@ -1707,7 +1710,7 @@ header .logo:hover {
         /*width: 20px;*/
     }
     .right-menu .mob-nav .hamburger i {
-        font-family: "EB Garamond", serif;          font-style: normal;
+        font-family: "Cormorant Garamond";          font-style: normal;
         font-size: 12px;
         font-weight: 600;
         letter-spacing: 2px;
@@ -1938,7 +1941,7 @@ header .logo:hover {
     .about-mob-section-wrap .mobile-about-section .about-text-wrap h4,
     .about-mob-section-wrap .mobile-about-section .about-text-wrap h5,
     .about-mob-section-wrap .mobile-about-section .about-text-wrap h6 {
-       font-family: "EB Garamond", serif;        font-weight: 600;
+       font-family: "Cormorant Garamond";        font-weight: 600;
         letter-spacing: 1px;
     }
     .about-mob-section-wrap .mobile-about-section .about-text-wrap p {
@@ -1951,7 +1954,7 @@ header .logo:hover {
     .about-mob-section-wrap .mobile-about-section .about-gallery-wrap .mob-about-title {
         margin-bottom: 20px;
         color: #ffffff;
-       font-family: "EB Garamond", serif;        font-size: 30px;
+       font-family: "Cormorant Garamond";        font-size: 30px;
         font-weight: 600;
         letter-spacing: 1px;
         line-height: 1.1;
@@ -2142,7 +2145,7 @@ header .logo:hover {
     .about-mob-section-wrap .mobile-about-section .about-gallery-wrap .mob-about-title {
         margin-bottom: 20px;
         color: #ffffff;
-       font-family: "EB Garamond", serif;        font-size: 30px;
+       font-family: "Cormorant Garamond";        font-size: 30px;
         font-weight: 600;
         letter-spacing: 1px;
         line-height: 1.1;
@@ -2197,7 +2200,7 @@ header .logo:hover {
     .about-mob-section-wrap .mobile-about-section .about-text-wrap h4,
     .about-mob-section-wrap .mobile-about-section .about-text-wrap h5,
     .about-mob-section-wrap .mobile-about-section .about-text-wrap h6 {
-       font-family: "EB Garamond", serif;        font-weight: 600;
+       font-family: "Cormorant Garamond";        font-weight: 600;
         letter-spacing: 1px;
     }
 }
@@ -2369,7 +2372,7 @@ header .logo:hover {
     .aside-menu.static #topmenu .menu li a {
         text-align: left;
         color: #ffffff;
-        font-family: "EB Garamond", serif;          font-size: 12px;
+        font-family: "Cormorant Garamond";          font-size: 12px;
         font-weight: 600;
         display: inline-block;
         letter-spacing: 2px;
@@ -3092,7 +3095,7 @@ header .logo:hover {
         padding: 8px 0;
         border-bottom: 1px solid #ddd;
         color: #222222;
-       font-family: "EB Garamond", serif;        font-style: italic;
+       font-family: "Cormorant Garamond";        font-style: italic;
         letter-spacing: 1.3px;
     }
     .modern .f-right {
@@ -3146,10 +3149,9 @@ header .logo:hover {
     a.logo span{
         vertical-align: middle;
         text-align: left;
-       font-family: "EB Garamond", serif;        font-size: 28px;
+       font-family: "Cormorant Garamond";        font-size: 28px;
         line-height: 1.8;
-        font-weight: 900;
-        letter-spacing: 2px;
+       font-weight:500;        letter-spacing: 2px;
         color: #222222;
         white-space: nowrap;
         text-transform: uppercase;
@@ -4722,7 +4724,7 @@ div.wpcf7 .ajax-loader {
     padding:15px 40px;
     background-color:#ffffff;
     color:#222222;
-    font-family:"EB Garamond", serif;
+    font-family:"Cormorant Garamond";
     font-size:25px;
     letter-spacing:1.2px;
     text-transform:uppercase;

@@ -64,13 +64,13 @@
 }
 
 @font-face {
-   font-family: "EB Garamond", serif;      font-style: normal;
+   font-family: "Cormorant Garamond";      font-style: normal;
     font-weight: 600;
     src: local('EB Garamond SemiBold'), local('OpenSans-SemiBold'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOUuhs.ttf) format('truetype')
 }
 
 @font-face {
-    font-family: "EB Garamond", serif;      font-style: normal;
+    font-family: "Cormorant Garamond";      font-style: normal;
     font-weight: 400;
     src: local('EB Garamond Regular'), local('PlayfairDisplay-Regular'), url(https://fonts.gstatic.com/s/playfairdisplay/v13/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYhQ.ttf) format('truetype')
 }
@@ -126,7 +126,7 @@
     line-height: 2em;
     color: #222222 !important;
     font-weight: 600;
-   font-family: "EB Garamond", serif;      text-transform: uppercase;
+   font-family: "Cormorant Garamond";      text-transform: uppercase;
     text-align: left;
     letter-spacing: 2px;
     border-color: #eeeeee !important;
@@ -146,7 +146,7 @@
     line-height: 2em;
     color: #999999 !important;
     font-weight: 600;
-   font-family: "EB Garamond", serif;      text-transform: uppercase;
+   font-family: "Cormorant Garamond";      text-transform: uppercase;
     letter-spacing: 2px;
     display: inline-block;
     width: 70%;
@@ -165,7 +165,7 @@
     line-height: 26px;
     color: #222222 !important;
     font-weight: 400;
-   font-family: "EB Garamond", serif;      display: inline-block;
+   font-family: "Cormorant Garamond";      display: inline-block;
     width: 70%;
     min-width: 70%;
     margin: 0;
@@ -182,7 +182,7 @@
 
 .tg-iso-post-1 .tg-item-date i {
     font-size: 70px;
-    font-family: "EB Garamond", serif;      font-weight: 400;
+    font-family: "Cormorant Garamond";      font-weight: 400;
     margin-bottom: 10px;
     display: block
 }

@@ -1547,8 +1547,7 @@ body.admin-bar .tolb-inner {
     font-size: 36px;
     color: #fff;
     line-height: 50px;
-    font-weight: 900;
-    cursor: pointer
+   font-weight:500;    cursor: pointer
 }
 
 .tolb-holder .tolb-close {
